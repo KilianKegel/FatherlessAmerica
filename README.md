@@ -10,6 +10,8 @@
 	* [The Rise of Volitional Fatherlessness](#the-rise-of-volitional-fatherlessness)
 * [CHAPTER 2: Fatherlessness Society](#chapter-2-fatherlessness-society)
 	* [Youth Violence](#youth-violence)
+	* [Domestic Violence Against Women](#domestic-violence-against-women)
+	
 ### Acknowledgments
 My most important author's debts are to my colleagues Barbara
 Dafoe Whitehead and David Popenoe, who started this project
@@ -1211,8 +1213,8 @@ sons will commit criminally violent acts, he is much more likely to deserve
 letter of commendation from the local police department than to deserve
 the charge that Miedzian levels against him.
 
-There are exceptions, of course, but here is the rule: Boys raised by tra
-ditionally masculine fathers generally do not commit crimes. Fatherless
+There are exceptions, of course, but here is the rule: Boys raised by traditionally 
+masculine fathers generally do not commit crimes. Fatherless
 boys commit crimes.
 
 Both clinical studies and anthropological investigations confirm the
@@ -1229,3 +1231,199 @@ the boy becomes a man, he will reunite with the world of women, the
 world of his mother, through his spouse and children. In this sense, only
 by becoming his father’s as well as his mother’s son can he become a good
 father and husband.<sup>16</sup>
+
+When this process of male identity does not succeed — when the boy
+cannot separate from the mother, cannot become the son of his father —
+one main result, in clinical terms, is rage. Rage against the mother, against
+women, against society. It is a deeply misogynistic rage, vividly expressed,
+for example, in contemporary rap music with titles such as “Beat That
+Bitch with a Bat."<sup>17</sup>
+
+Another common result of this failure is hypermasculinity, or what is
+frequently termed protest masculinity: the unrestricted (unmanhandled)
+aggression and swagger of boys who must prove their manhood all by
+themselves, without the help of fathers. For these reasons, if we want to
+learn the identity of the rapist, the hater of women, the occupant of jail
+cells, we do not look first to boys with traditionally masculine fathers. We
+look first to boys with no fathers.
+
+Certainly, despite the difficulty of proving causation in the social sciences, 
+the weight of evidence increasingly supports the conclusion that
+fatherlessness is a primary generator of violence among young men. As
+Michael R. Gottfredson and Travis Hirschi summarize current findings:
+“Such family measures as the percentage of the population divorced, the
+percentage of households headed by women, and the percentage of unattached 
+individuals in the community are among the most powerful predictors 
+of crime rates."<sup>18</sup> Surveys of child well-being repeatedly show that
+children living apart from their fathers are far more likely than other children 
+to be expelled or suspended from school, to display emotional and
+behavioral problems, to have difficulty getting along with their peers, and
+to get in trouble with the police.<sup>19</sup>
+
+According to a 1990 study commissioned by the Progressive Policy
+Institute, the “relationship between crime and one-parent families” is 
+“so strong that controlling for family configuration erases the relationship
+between race and crime and between low income and crime. This conclusion 
+shows up time and again in the literature.
+Moreover, fatherlessness undermines more than the life prospects of
+individual fatherless children. Especially as it becomes widespread, it also
+weakens the larger ethos of protection in a community. As James Q. Wilson reminds us:<br>
+*Neighborhood standards may be set by mothers but they are enforced
+by fathers, or at least by adult males. Neighborhoods without fathers are
+neighborhoods without men able and willing to confront errant youth,
+chase threatening gangs, and reproach delinquent fathers. ... the absence 
+of fathers deprives the community of those little platoons that
+informally but often effectively control boys on the street.*<sup>21</sup>
+
+So there is a link between masculinity and violence, but not the link that
+Miedzian describes. The rapid growth of crime in our society over the past
+three decades does not derive from traditional male norms but from the
+decline of certain traditional male norms, particularly the norm of paternal
+obligation and the duty to provide for children.
+
+Put simply, we have too many boys with guns primarily because we have
+too few fathers. If we want fewer of the former, we must have more of the
+latter. There is little evidence to suggest that any other strategy will work.
+
+Social workers, psychologists, mentors, and life skills instructors can 
+frequently help children like Joseph Chaney, Jr., but they cannot even begin
+to do the work of a father. And despite our current policy of spending
+ever - larger sums of money on prison construction, our capacity to build
+new prisons is being far outstripped by our capacity to produce violent
+young men. We are generating male violence much faster than we can
+incarcerate it.
+
+Prisons cannot replace fathers. At best, new prisons constitute an
+expensive endgame strategy for quarantining some of the consequences of
+fatherlessness. In this sense, locking up Joseph Chaney, Jr., might make us
+feel better and it might make us safer. But putting this child in jail is not an
+act of justice. It is an admission of failure, a symbol of our retreat.
+
+### Domestic Violence Against Women
+
+Domestic violence emerged as an urgent and distinctive societal concern
+during the 1970s.<sup>22</sup> During these years, scholars and opinion leaders, 
+especially those within the feminist movement, came to view domestic violence
+not simply as one subcategory of violent behavior but as conceptually separate 
+from other types of violence—a special crime with its own distinctive logic and 
+institutional sources.
+
+The logic of the crime, in this view, is the logic of patriarchy. Privileged
+by gender status, men in families oppress women and children, frequently
+through violence. The main institutional source of the problem is marriage, 
+which sanctions the values of patriarchal fatherhood. This perspective suggests 
+that our current understanding of domestic violence, also frequently termed 
+spouse abuse or wife beating, is defined largely by our understanding of marriage 
+and fatherhood.
+
+“Male violence against women is at least as old as the institution of marriage,” 
+Gus Kaufman, Jr., a psychologist, told Time magazine in a 1993
+cover story on domestic violence entitled “Til Death Do Us Part.” The
+article explains: “So long as a woman was considered her husband’s legal
+property, police and the courts were unable to prevent—and unwilling to
+punish—domestic assaults.”<sup>23</sup>
+
+In *The Battered Woman*, Lenore E. Walker argues that “the very fact of
+being a woman, specifically a married woman, automatically creates a situation
+of powerlessness” that invites husbands to become violent.<sup>24></sup> As Susan
+Schechter puts it: “Although men no longer legally own women, many act as if
+they do. In her marriage vows today, the woman still promises to love, honor,
+and obey... . Battering is one tool that enforces husbands’ authority over
+wives or simply reminds women that this authority exists.<sup>25</sup>
+
+Similarly, Naomi Wolf, angered by the rise of a “rape culture” in the
+United States, confesses that “when I think of pledging my heart and body
+to a man — even the best and kindest man—within the existing institution
+of marriage, I feel faint."<sup>26</sup> From this perspective, marriage culture
+emerges as a synonym for rape culture, and a marriage license becomes a
+license for a man to beat his wife.<sup>27</sup>
+
+This idea largely governs television programming on domestic violence,
+including a great many made-for-television movies such as *The Burning
+Bed*, a popular 1984 movie starring Farrah Fawcett. In almost every case,
+domestic violence on television is portrayed as a crime committed by a
+married man, typically a middle-class, seemingly “normal” married father,
+usually from the suburbs.
+
+Policy makers also commonly equate marriage with male violence. In
+West Virginia, legislators recently considered a bill, endorsed by the state
+medical association, that would require all marriage licenses in West Virginia 
+to carry “warning labels” against domestic violence.<sup>28</sup> The symbolism
+and logic of this idea are unmistakable: Like alcohol and cigarettes, marriage 
+poses potential health hazards for women.
+
+Even in cases of domestic violence that clearly have nothing to do with
+marriage, this marriage-based conceptualization of the problem endures.
+In 1993, the Wall Street Journal published an essay by Shawn Sullivan
+called “Wife-Beating N the Hood.” But, despite the title and much of the
+author’s language, the essay itself is not about wife beating at all. It is about
+girlfriend beating. Thus, Sullivan writes about interviewing men he
+describes as “alleged wife-beaters” in a Brooklyn court, one of whom
+“admitted hitting his girlfriend but he added: She simply drove me to
+frustration. Where I come from, you don’t take that s—— from your
+girl.<sup>29</sup>
+
+More generally, our public discussion of domestic violence almost never
+acknowledges, much less analyzes, differences in marital status among men
+who assault women. Indeed, to avoid making these distinctions, certain
+rules of language are widely observed. Almost without exception, journalists, 
+legislators, academics, and advocates for battered women adhere to
+the convention of calling perpetrators of domestic violence “husbands” or
+“partners,” or sometimes, even more elliptically, “husbands and boy
+friends.” As a result, the public repeatedly hears that men who batter
+women are either husbands or, well, we would prefer not to be precise.
+Thus our currently prevailing paradigm for understanding the problem:
+Male violence in families is rooted in, and sustained by, male marital privilege. 
+Because of the causal link between marriage and violence, and
+because husbands are the principal victimizers of women, “wife beating”
+properly emerges as a generic term for male violence against a female
+sexual partner.<sup>30</sup>
+
+But if marriage is the problem—if marriage serves to institutionalize and
+even valorize male violence—we might logically expect the decline of marriage 
+in our society to be accompanied by a decline in domestic violence.
+More women freed from the restraints of marriage, less male violence.
+
+But apparently, the opposite has happened. As women are living ever
+more separately, they are also living ever more dangerously. Demographers
+confirm that the single most significant change in men’s lives during the
+past three decades has been that “men on average spend more time outside
+of fatherhood”—much less time living with their children and much more
+time living outside of marriage.<sup>31</sup>
+
+At the same time, while reliable trend-line data are virtually nonexistent,
+the leading scholars on this issue generally confirm that domestic violence is a
+growing problem in our society.<sup>32</sup> So the weakening of marriage has not made
+the home a safer place for women. As more women are living apart from hus
+bands and fathers, more women are being battered by men.<sup>33</sup>
+
+This trend is tragic, and certainly does not speak well for men, but it
+should not be surprising. In *Fighting for Life*, Walter J. Ong nicely
+describes the foundation of prosocial behavior among males in human
+societies. The adult male “counters his tendency to violent domination by
+placing any violence in him directly at the service of others.” Which “others”? 
+In all societies, the male’s biological offspring and the mother of his
+offspring emerge as the primary others on whose behalf he deploys, and in
+doing so socializes, his tendency toward aggression and adversative relationships.<sup>34</sup>
+
+In their cross-cultural study of homicide, Martin Daly and Margo Wilson 
+conclude that the male propensity toward violence—there is “no
+known human society in which the level of lethal violence among women
+even begins to approach that among men”— is rooted primarily in “male
+sexual jealousy and proprietariness.” What social arrangements serve to
+minimize male violence? Like Ong, Daly and Wilson report that male violence 
+is restrained principally by “paternal investment” in children,
+achieved through a “reproductive alliance” with the mother. In short, married fatherhood:<br>
+*The practice of paternal investment, by reapportioning male reproductive effort 
+away from mating competition, tends to reduce both the fitness prize for 
+high rank and the risk of total reproductive failure.
+Biparental care for the young thus softens male-male conflict and selects
+for less dangerous competitive tactics.*<sup>35</sup>
+
+From these perspectives, married fatherhood emerges as the primary
+inhibitor of male domestic violence. By reducing the likelihood of 
+sexual jealousy and paternal uncertainty, and by directing the male’s 
+aggression toward the support of his child and the mother of his child,
+married fatherhood dramatically restricts the tendency among men toward
+violent behavior.
+
