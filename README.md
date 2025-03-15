@@ -550,8 +550,7 @@ remaining anchors of the traditional fatherhood script.
 **TABLE 1.1** Adult Americans who agree that “It is much better for everyone
 involved if the man is the achiever outside the home and the woman
 takes care of the home and family.”<br>
-*Source:* National Opinion Research Center, combined data for the 1986-91.
-
+<small>*Source:* National Opinion Research Center, combined data for the 1986-91.</small>
 
 Daniel Yankelovich also confirms this steady change in American attitudes:<br>
 *until the late 1960s, being a real man meant being a good provider for
@@ -663,3 +662,306 @@ So the question is not, *What do men want?* but rather. *What do men do?*
 **Central to that question is the fatherhood script — thus the core question is
 really, *What do fathers do?* Yet here is our tragedy. Our society is unable to
 answer this question.**
+
+### The Collapsing Bases of Good-Enough Fatherhood
+
+Structurally, the preconditions for effective fatherhood are twofold: co-residency 
+with children and a parental alliance with the mother. These two
+foundations do not guarantee effective fatherhood, but they do sustain the
+possibility of good-enough fatherhood. Conversely, when one or both of
+these enabling conditions are absent, good-enough fatherhood is not possible 
+for most men.
+
+Both of these bases of good-enough fatherhood are collapsing in our
+society. The data in tables 1.2 and 1.3 are sobering. With each passing year,
+fewer and fewer men are living with their children. Fewer and fewer
+fathers are willing or able to sustain cooperative partnerships with the
+mothers of their children.
+
+In 1990, more than 36 percent of all children in the nation were living
+apart from their fathers — more than double the rate in 1960. The trend
+shows no sign of slowing down. Indeed, it seems quite probable that, as of
+1994, fully 40 percent of all children in the nation did not live with their
+fathers. Scholars estimate that, before they reach age eighteen, more than
+half of all children in the nation will live apart from their fathers for at least
+a significant portion of their childhoods. <sup>29</sup>
+
+|Living with |1960 |1970 |1980 |1990|
+|--|--|--|--|--|
+|Father and mother|		80.6| 75.1 |62.3 |57.7|
+|Mother only			|7.7	|11.8	|18.0	|21.6|
+|— Never married		|3.9	|9.3	|15.5	|31.5|
+|— Divorced				|24.7	|29.7	|41.6	|36.9|
+|— Separated			|46.8	|39.8	|31.6	|24.6|
+|— Widowed				|24.7	|21.2	|11.3	|7.0 |
+|Father only			|1.0	|1.8	|1.7	|3.1 |
+|— Father and stepmother|0.8	|0.9	|1.1	|0.9 |
+|— Mother and stepfather|5.9	|6.5	|8.4	|10.4|
+|— Neither patent		|3.9	|4.1	|5.8	|4.3 |
+
+**TABLE 1.2** Percentage of U.S. Children in Various Family Arrangements
+
+For most of these children, the possibility of being fathered has largely
+evaporated. When a man does not live with his children and does not get
+along with the mother of his children, his fatherhood becomes essentially
+untenable, regardless of how he feels, how hard he tries, or whether he is a
+good guy. Almost by definition, he has become de-fathered.
+
+Yet these two father-disabling phenomena have become the distinguish
+ing traits of the fatherhood trend of our time. In historical terms, the spread
+of these new conditions of paternity marks the essential difference between
+a fatherhood that is shrinking and a fatherhood that is fragmenting.
+
+When fatherhood is shrinking, a father is doing less, and perhaps doing
+it less well, but he is still a father. His role may be diminishing, but it is still
+coherent. He is still on the premises. His children see him every day. He is
+still a husband and a partner to their mother. He is responsible for protecting 
+and nurturing his children. He may not win any Father’s Day prizeshe may not be 
+a very good father at all—but he is still recognizably a father.
+
+But when fatherhood is *fragmenting*, the identity and social definition of
+the father change not in degree but in kind. The new conditions, driven by
+divorce and out-of-wedlock childbearing, split the nucleus of the nuclear
+family. Now the father is physically absent. When he comes “home,” his
+children are not there. He is not a husband. Because the parental alliance
+has either ended or never begun, the mother has little reason or opportunity 
+to defend or even care about his fatherhood. In the most important
+areas, he is not responsible for his children.
+
+This transmogrification means that there is no longer any coherent
+structure to his fatherhood. His paternity has become disabled, cut off
+from its essential supports. In sociological terms, his fatherhood has
+become deinstitutionalized, or detached from socially cognizable expectations 
+and goals. Consequently, the very meaning of his fatherhood
+becomes fractured and disorganized. To his children and to the larger society, 
+he becomes largely unrecognizable as a father.
+
+||1960|1970|1980|1990|
+|--|--|--|--|--|
+|Living apart from fathers	|17.5	|22.4	|32.2	|36,3 |
+|Living with father			|82.4	|77.8	|65.1	|61.7 |
+
+**TABLE 1.3** Percentage of U.S. Children Living with Their Biological Fathers<br>
+<small>*Tables 1.2 and 1.3 Sources:* Donald J. Hernandez, “America’s Children; Resources from Family,
+Govenunem, and the Economy" (New York: Russell Sage Foundation, 1993), p. 65; “Marriage,
+Divorce, and Remarriage in the 1990’s,” U.S. Bureau of the Census, Current Population Reports,
+series P-23, no. 180 (Washington, D.C.: Government Printing Office, 1992), tables M and N, pps.
+11-12; “Marital Status and Living Arrangements: March 1980," U.S. Bureau of the Census, Cur
+rent Population Reports, series P-20, no. 365 (Washington, D.C.: Government Printing Office,
+1981), table 5, p. 31; and “Marital Status and Living Arrangements: March 1990," U.S. Bureau of
+the Census, Current Population Reports, series P-20, no. 450 (Washington, D.C.; Government
+Printing Office, 1991), table 6, p, 45.
+*Note:* Figures for 1980 and 1990 do not add up to 100 percent due to discrepancies of approximately 2 percent between tables M and N (see Sources) regarding the number of children living
+with two parents in 1980 and 1990.</small>
+
+Indeed, it is precisely this quality of unrecognizability, often associated
+with social confusion and even bizarreness, that emerges as the telltale sign
+of a fatherhood that is not simply shrinking but breaking into pieces. To
+illustrate this disintegration, consider several news stories from 1993.
+
+In Texas, Judy has a baby. The father is Larry, her boyfriend. After the
+birth, Judy and her husband, Randy, decide to dismiss their pending
+divorce action, keep the child, and cut off all contact with Larry. Unhappy
+with this turn of events, Larry initiates legal action to establish his paternity 
+and win visitation rights. In deciding in favor of Larry, the Texas
+Supreme Court strikes down a state law declaring that a married man is
+presumed to be the father of his wife’s child, and that an unmarried man
+lacks paternal rights regarding the child of an intact marriage.<sup>30</sup>
+
+In Seattle, Megan Lucas, an unmarried mother, leaves her newborn son
+with her seventeen-year-old sister. After Megan legally relinquishes her
+parental rights two years later, the child, by then in foster care, is scheduled 
+to be adopted by two gay men who are licensed foster parents. The
+mother changes her mind about the adoption and files to regain custody.
+The child’s father, the *New York Times** notes, “has not come forward.”<sup>31</sup>
+
+In the media, the Texas story is interpreted largely as an expansion of
+the prerogatives of fatherhood. A father should be able to visit his child,
+regardless of marital status. Similarly, the Seattle story is portrayed chiefly
+as an example of lingering bigotry against gay parents. Both stories are
+essentially about individual rights. Unwed fathers have rights. So do gay
+adoptive parents. Family law should be updated to recognize these rights.
+This interpretation should not surprise us. Increasingly in our national
+discourse, what Mary Ann Glendon terms “rights talk” trumps most other
+considerations. Yet surely the fundamental truth, the core social dynamic,
+of both of these stories is the fragmentation and dispersal of fatherhood. In
+one case, fatherhood is severed from, then directly opposed to, husbandhood
+and marriage. In the other, the father never even makes an appear
+ance. This is the trend that produces these and many other similar stories
+about fathers’ “rights.<sup>32</sup>
+
+Moreover, as fatherhood fragments, so do other institutions that depend
+on fatherhood. Marriage is an obvious example, but consider a less obvious one: 
+adoption. What explains the current explosion of tangled legal
+quarrels and sensational media stories surrounding the issue of adoption?
+One frequently offered answer is that we are becoming a more litigious
+and complex society. Yes, we are. But the more precise answer is that the
+fracturing of adoption in our society — its loss of institutional coherence-stems 
+directly from the fracturing of fatherhood.
+
+Consider the case of Baby Pete. In Vermont, Angela Harriman puts her
+newborn baby, Pete, up for adoption. She tells everyone that the father is
+Marcus Stoddard, her boyfriend. Angela’s estranged husband, Daniel, who
+is living in Louisiana, apparently knows nothing of the pregnancy or the
+adoption. But when he learns what has happened, he takes legal action to
+gain custody of a child he has never seen. Blood tests eventually show that
+he, not Stoddard, is the probable father. Harriman tells a journalist: “I’m
+not doing this to get back at her. I just want my son.<sup>33</sup>
+
+In the media, the Baby Pete story is widely celebrated as having a happy
+ending. The adoptive parents will maintain physical custody of Pete, while
+Daniel Harriman will share legal custody with the adoptive mother and
+will have visitation rights. The adoptive father, described by the New York
+Times as now becoming “in effect, the stepfather,” declared; “Nobody lost,
+and the baby won.”<sup>34</sup> The editors of the *Times* agreed. As they saw it:<br>
+*Lawyers are already pointing to this agreement as a possible model for
+future squabbles over biological parents', adoptive parents’ and children’s rights. 
+And so it could be.... The adults in the case put their own
+interests and emotions aside to do the right thing for a child. Bless
+them.”*<sup>35</sup>
+
+Bless them? Let’s see. A one-day-old infant is given up for adoption by a
+mother who says that her boyfriend, not her estranged husband, is the
+father. This turns out to be untrue. Lawyers are called in. As a result, the
+mother drops out of the picture, the baby goes to adoptive parents, and
+the father, winning a big victory, gets visitation rights. A model for the
+future?
+
+No, this is a model of the decomposition of marriage and fatherhood as
+social institutions. More specifically, it is a consequence of the splitting
+apart of social from biological fatherhood. What results is men who
+impregnate women, and who at times assert paternal rights, but who find
+themselves hopelessly tangled up by a rather basic question: Who is this
+child’s rightful father? No one can figure it out. The Baby Pete case is a
+model of our tortuous struggle to redefine parenthood as we become an
+increasingly fatherless society.
+
+In this sense, the Baby Pete story has a happy ending in precisely the
+same way that child-support payments and cooperative divorces constitute
+happy endings. It is happy only insofar as we define happiness as our
+capacity to improve our procedures for managing the decline of father
+hood. As is often the case, the *New York Times*’s gushy endorsement of this
+entire philosophy—“For Once, the Baby Won”—hovers precariously on
+the boundary between conventional trendiness and self-parody.
+
+In sum, a new fatherhood has emerged in our society. But what is new is
+not the hands-on, nurturing “new” fatherhood so widely proclaimed and
+urged in the media and by parenting experts. Instead, measured according
+to demographic reach and social impact, what is truly new in our generation 
+is a fatherhood that is increasingly estranged from mothers and
+removed from where children live. Unlike previous fatherhood shifts in
+our nation’s history, these newly dominating conditions of paternity do not
+simply change or even shrink fatherhood. They end it.
+
+### The Rise of Volitional Fatherlessness
+
+Historically, the principal cause of fatherlessness was paternal death. By
+the time they turned fifteen, about 15 percent of all American children
+bom in 1870 had experienced the death of their fathers. Only slightly
+more than half reached age fifteen with both parents still alive.<sup>36</sup> At the
+turn of the century, middle-aged widowed men outnumbered middle-aged
+divorced men by more than 20 to 1.<sup>37</sup>
+
+But one of the great medical and social achievements of this century has
+been the steady decline of early parental death. Only about 3 percent of all
+children born in 1950 lost their fathers through death before reaching age
+fifteen. More than 90 percent reached that age with both parents still
+alive.<sup>38</sup>
+
+Today, the principal cause of fatherlessness is paternal choice. Over the
+course of this century, the declining rate of paternal death has been
+matched, and rapidly surpassed, by the rising rate of paternal abandonment. 
+The shift began quite early. Even for parents of children born as
+early as 1910 through 1930, according to the demographer Peter Uhlenberg,
+“the increase in voluntarily broken marriages greatly exceeded the
+decline in marriages broken by death.<sup>39</sup>
+
+By 1960, about 9 percent of all U.S. children lived in single-parent
+homes—not much different from the 8.5 percent who lived in single
+parent homes in 1900. Yet in 1900, three of every four single parents were
+widowed—nearly one of every three a widowed man. Only about 5 percent
+of all children in one-parent homes in 1900 lived with a parent who
+was divorced or never married.<sup>40</sup> In 1960, by contrast,
+the great majority of single-parent homes, almost all headed by women,
+stemmed not from the death of a parent but from divorce and out-of-wedlock childbearing.
+
+Since 1960, even as paternal death continued to decline, rates of
+paternal abandonment skyrocketed. In the 1970s, the number of mid
+dle-aged divorced men surpassed the number of middle-aged widowed
+men.<sup>41</sup> By 1992, only about 5 percent of all female-headed households
+with children had experienced the death of the father; about 37 percent
+had experienced parental divorce; and in 36 percent of these homes, the
+parents had never married.<sup>42</sup> For the first time in our nation’s history,
+millions of men today are voluntarily abdicating their fatherhood.
+
+Though paternal death and paternal abandonment are frequently
+treated as sociological equivalents, these two phenomena could hardly be
+more different in their impact upon children and upon the larger society.
+To put it simply, death puts an end to fathers. Abandonment puts an end
+to fatherhood.
+
+Yet among social scientists who study fatherhood, the equivalency argument 
+is quite popular. Alvin L. Schorr and Phyllis Moen, for example, seek
+to disprove the notion that contemporary father absence is “unique and
+deviant”: “There have, for hundreds of years, been single-parent
+families.... Early death of the father combined with an extended span of
+childbearing has made the single-parent family fairly common in the twen
+tieth century.<sup>43</sup> As the historian Tamara K. Hareven put it in her 
+testimony before a congressional committee concerned with family policy; “In
+fact, divorce now has a similar effect on family disruption that death once
+had.”<sup>44</sup>
+
+In *The Way We Never Were*, the historian Stephanie Coontz emphasizes
+the same point. To Coontz, people who worry about fatherlessness today
+are historically illiterate, afflicted by a mental disability called “nostalgia,”
+defined by Coontz as the tendency to believe in a past that never existed.
+Coontz explains: “Even though marriages today are more likely to be interrupted 
+by divorce than in former times, they are much less likely to be
+interrupted by death, so that about the same number of children spend
+their youth in single-parent households today as at the turn of the century,
+and far fewer live with neither parent.<sup>45</sup>
+Leave aside the facts showing that fewer than 10 percent of all children
+lived in one-parent homes in 1900, compared with 27 percent in 1992.<sup>46</sup>
+Instead, focus on Coontz’s larger thesis; Parental death and parental abandonment 
+are social equivalents. Before, we had one. Now we have the other. Same net result.
+
+This thesis, commonly asserted by scholars and widely repeated by journalists 
+and other commentators, is a sophism. Like all sophisms, it depends
+upon a superficial correctness of form to disguise an invalid assertion. The
+equivalence is only formal. Where it counts, death and abandonment are
+much closer to opposites.
+
+When a father dies, a child grieves. (I have lost someone I love.) When a
+father leaves, a child feels anxiety and self-blame. (What did I do wrong?
+Why doesn’t my father love me?) Death is final. (He won’t come back.)
+Abandonment is indeterminate. (What would make him come back?)
+
+When a father dies, his fatherhood lives on, inside the head and heart of
+his child. In this sense, the child is still fathered. When a father leaves, his
+fatherhood leaves with him to wither away. The child is unfathered. When
+a father dies, the mother typically sustains his fatherhood by keeping his
+memory alive. When a father leaves, the mother typically diminishes his
+fatherhood by either forgetting him or keeping her resentments alive.<sup>47</sup>
+
+Yesterday, when a father died, our society affirmed the importance of
+fatherhood by comforting and aiding his family. Today, when a father
+leaves, our society disconfirms the importance of fatherhood by accepting
+his departure with reasoned impartiality. Historically, we have viewed the
+death of a father as one of the greatest tragedies possible in the life of a
+child. Today, we increasingly view the departure of a father as one of those
+things that we must simply get used to.
+
+Death kills men but sustains fatherhood. Abandonment sustains men
+but kills fatherhood. Death is more personally final, but departure is more
+culturally lethal. From a societal perspective, the former is an individual
+tragedy. The latter is a cultural tragedy.
+
+The rise of volitional fatherlessness constitutes the final diminishment of
+fatherhood in our time. The fact that we discuss death and abandonment
+as social equivalents speaks volumes about what is happening to our idea
+of fatherhood. The fact that paternal death caused such pain and social
+concern, while paternal departure is now accepted with relative equanimity, 
+tells us with great precision what is truly new about contemporary
+fatherhood.
+
+
