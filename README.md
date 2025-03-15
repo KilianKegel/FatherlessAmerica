@@ -246,7 +246,7 @@ A Michigan high school senior, Kara Hewes, enters a crowded conference
 room to face cameras and reporters. She is about to make a
 public appeal to her seventy-three-year-old father. She asks him to
 admit his paternity. "I’d just like him to be a father," she says. "I want very
-much to develop a relationship with him." Her biological father, identified 
+much to develop a relationship with him."^1^ Her biological father, identified 
 through a reliable blood test, is Bruce Sundlun, World War II Air
 Force captain. Harvard Law School graduate, and second-term governor
 of Rhode Island.
@@ -255,7 +255,7 @@ Kara Hewes gets her wish. Shortly after the press conference in June
 1993, Sundlun acknowledges his paternity and agrees to pay Kara's college
 tuition. She withdraws her paternity suit. Father and daughter dine
 together in the governor’s mansion, and he invites her to visit him and his
-other children at his Newport estate.
+other children at his Newport estate.^2^
 
 The governor's supporters are confident that the publicity will not damage 
 his political career. After all, this is a complicated case. The thrice-divorced
@@ -265,110 +265,120 @@ adopted by her stepfather, who later vanished. Another important point in
 Sundlun's favor, say his supporters, is that the governor has always been
 forthcoming about his personal life. “His frankness and candidness with
 the people of this state deserve a great deal of respect,” says Julius
-Michaelson, a friend and former Rhode Island state attorney general.^
+Michaelson, a friend and former Rhode Island state attorney general.^3^
 
-As for the governor, he is reluctant to dwell on the past: “I think the
-important thing is not to look back,” he later tells reporters in a joint press
-conference with his daughter. “We’re here to look forward and try to create
-a relationship. You can’t wave a magic wand and have a storybook life.
+As for the governor, he is reluctant to dwell on the past: "I think the
+important thing is not to look back," he later tells reporters in a joint press
+conference with his daughter. "We're here to look forward and try to create
+a relationship. You can't wave a magic wand and have a storybook life.^4^
+
 Governor Sundlun’s unstorybook story, though a bit more public than
-most, has become increasingly common. It is a story unfolding in coundess
-courtrooms, lawyers’ suites, and welfare offices across the nation. Like the
-Fatherlessness
-governor, more and more men are fathering children outside of marriage.
-More and more men are failing to support or even acknowledge their chil
-dren. More and more men are simply vanishing from their children’s lives.
-Kara Hewes’s story is also familiar. A growing number of American chil
-dren have no relationship with their fathers. Court and school officials
-report that many children do not even know what to put in the “Father’s
-Name” blank on printed forms. An even larger proportion of children
+most, has become increasingly common. It is a story unfolding in countless
+courtrooms, lawyers' suites, and welfare offices across the nation. 
+Like the Fatherlessness governor, more and more men are fathering 
+children outside of marriage.
+More and more men are failing to support or even acknowledge their children. 
+More and more men are simply vanishing from their children's lives.
+
+Kara Hewes’s story is also familiar. A growing number of American children 
+have no relationship with their fathers. Court and school officials
+report that many children do not even know what to put in the "Father’s
+Name" blank on printed forms. An even larger proportion of children
 have only the slightest acquaintance with their fathers. In its 1991 survey of
 children in the United States, the National Commission on Children
 described the spreading phenomenon of father-child relationships that
-“are frequently tenuous and all too often nonexistent.”’
+"are frequently tenuous and all too often nonexistent."^5^
+
 Fathers are vanishing legally as well as physically. About one-third of all
 childbirths in the nation now occur outside of marriage. In most of these
 cases, the place for the father’s name on the birth certificate is simply left
 blank. In at least two of every three cases of unwed parenthood, the father
-is never legally identified.* Not surprisingly, paternity suits are on the rise.
-When Governor Sundlun says that we “can’t wave a magic wand and
-have a storybook life,” he implies that the storybooks may be unrealistic.
+is never legally identified.^6^ Not surprisingly, paternity suits are on the rise.
+
+When Governor Sundlun says that we "can’t wave a magic wand and
+have a storybook life," he implies that the storybooks may be unrealistic.
 The governor need not worry: Even storybooks for children now reflect
-his kind of fatherhood. “There are different kinds of daddies,” one book
-for preschoolers states, and “sometimes a Daddy goes away like yours did.
-He may not sec his children at all.”’ Another children’s book is equally
-candid; “Some kids know both their mom and dad, and some kids don’t.”
-One child in this book says: “I never met my dad, but I know that he lives
-in a big city.” Another says: “I’ll bet my dad is really big and strong.
+his kind of fatherhood. "There are different kinds of daddies," one book
+for preschoolers states, and "sometimes a Daddy goes away like yours did.
+He may not sec his children at all."^7^ Another children’s book is equally
+candid: "Some kids know both their mom and dad, and some kids don't."
+One child in this book says: "I never met my dad, but I know that he lives
+in a big city." Another says: "I’ll bet my dad is really big and strong."^8^
+
 So Kara Hewes and Governor Sundlun are, after all, something of a
-storybook story. It is one we all know. It is becoming our society’s story.
+storybook story. It is one we all know. It is becoming our society's story.
 We see it everywhere around us. We tell it to our children. It is the story of
 an increasingly fatherless society. The moral of this new narrative is that
 fathers, at bottom, are unnecessary. The action of the story centers on what
 can be best understood as the fragmentation of fatherhood.
+
 Imagine something big, made out of glass, called fatherhood. First
 imagine it slowly shrinking. Then imagine it suddenly shattering into
 pieces. Now look around. Try to identify the shards. Over here is marriage.
 Over there is procreation. Over here, manhood. Over there, parenthood.
 Here, rights. There, responsibilities. In this direction, what’s best for me.
-In that direction, what’s best for my child.
+In that direction, what's best for my child.
+
 Off to one side, looking nervous, is an emaciated fellow we must now
 call a biological father, filling out forms and agreeing to mail in childsupport
 payments. Off to the other side is some guy the experts now call a
 social father, wondering what to do next and whether he wants to do it. In
-the middle, poking through the rubble ?nd deciding when to leave, are
-mothers and children. There is much anger and much talk of “rights.”
-10
-”8
-The Diminishment of American Fatherhood 11
+the middle, poking through the rubble and deciding when to leave, are
+mothers and children. There is much anger and much talk of "rights."
 People are phoning their lawyers. People are making excuses. People are
 exclaiming at how complicated things have become.
-Indeed, as fatherhood fragments, things do become complicated. Cultur
-ally, the story of fatherhood becomes harder to figure out. For, as we witness
+
+Indeed, as fatherhood fragments, things do become complicated. Culturally, 
+the story of fatherhood becomes harder to figure out. For, as we witness
 the collapse of fatherhood as a social role for men, we become confused and
 divided about the very nature and meaning of fatherhood.
+
 Parenting experts question whether there is anything truly gendered
 about fatherhood. Scholars win research grants to investigate whether
-father absence harms children. Social workers debate whether it helps chil
-dren, especially poor children, to press for fathers’ names on birth certifi
-cates. Judges try to sort out tangled custody conflicts, often pitting unmar
-ried biological fathers against “father figures” such as the mother’s
+father absence harms children. Social workers debate whether it helps children, 
+especially poor children, to press for fathers' names on birth certificates. 
+Judges try to sort out tangled custody conflicts, often pitting unmarried 
+biological fathers against "father figures" such as the mother's
 boyfriend or even former boyfriend. Journalists write stories alternately
-condemning “deadbeat dads” and sympathizing with the plight of teenage
+condemning "deadbeat dads" and sympathizing with the plight of teenage
 fathers.
+
 As an analogue to the story of Kara Hewes and Bruce Sundlun, consider
 the story of Ronnell Williams, a student at Taft High School in Cincinnati.
 Williams is a talented basketball player, averaging twenty-nine points per
-game for his high school team. He is also an honors student, expeaed to
+game for his high school team. He is also an honors student, expected to
 graduate in the top 10 percent of his class. His achievements are all the
 more remarkable because he began with so many strikes against him.
-His father was killed by his mother’s boyfriend when Ronnell was three
+
+His father was killed by his mother's boyfriend when Ronnell was three
 years old. His mother was addicted to drugs. He repeatedly ran away from
 home, got caught stealing, and spent time in reform school. But with the
-support of a coach, his truant officer, and a concerned businessmanmentor,
+support of a coach, his truant officer, and a concerned businessman-mentor,
 Williams is able to turn his life around. By the time he reaches
 his senior year, he is a model student, a school leader, and a basketball
 star. College coaches come calling.
-The story should end here. But it doesn’t. Just before graduation,
+
+The story should end here. But it doesn't. Just before graduation,
 Williams is arrested for selling crack cocaine. As he explains to the judge,
 he was peddling the drug in a desperate effort to raise money for abortions
-for his two pregnant girlfriends; “I felt I was too young for the responsibil
-ity of being a father.”
-In the New York Times, the sportswriter Ira Berkow gives this story a
+for his two pregnant girlfriends; "I felt I was too young for the responsibility 
+of being a father."
+
+In the *New York Times*, the sportswriter Ira Berkow gives this story a
 happy ending. The young athlete gets a suspended sentence. He also gets a
-$25,000 basketball scholarship from American University. He’s outta the
-hood. Berkow’s piece ends in a slow fade, with Williams walking away
-down a sunny street, “dribbling the ball sweedy between his long legs.
-As might be expected, some New York Times readers object. In a letter
-to the editor, the Reverend Wayland Brown urges us to consider “plenty of
-fine young men who are not convicted felons and who have not impreg
-nated several women. Give one of them the scholarship.” Another reader
-asks; “What happened to the two young women who were made pregnant
-”9
-Fatherlessness
+$25,000 basketball scholarship from American University. He's outta the
+hood. Berkow's piece ends in a slow fade, with Williams walking away
+down a sunny street, "dribbling the ball sweedy between his long legs."^9^
+
+As might be expected, some *New York Times* readers object. In a letter
+to the editor, the Reverend Wayland Brown urges us to consider "plenty of
+fine young men who are not convicted felons and who have not impregnated 
+several women. Give one of them the scholarship."
+Another reader asks; "What happened to the two young women who were made pregnant
 by him? My guess is that they do not have such supporters as loyal
 coaches, truant officers ... and mentors who recognize and encourage
-potential talent and ability in them.
+potential talent and ability in them."^10^
+
 In most respects, Ronnell Williams and Bruce Sundlun have very little
 in common. They come from different sides of the tracks. One is an old,
 rich, white guy with a lot of power. The other is a young, poor, black guy
@@ -377,19 +387,20 @@ much more in common than either of them, or most of us, would prefer to
 admit. As cultural models of paternity, these men are twin brothers. They
 both embody the collapse of fatherhood as a social role for men. They
 both embody the trend toward a fatherless society.
+
 Their two stories raise fundamental questions for which we as a society
 have no coherent answers. What does it mean to be a father in the United
 States today? What does our society require of fathers? Are some fathers
 excused from these requirements? For example, are unemployed men
 excused? What about minority males from disadvantaged backgrounds?
-What about prominent elected officials who are candid about their per
-sonal lives?
+What about prominent elected officials who are candid about their personal lives?
+
 Do we stigmatize unwed fatherhood or do we not? Do we jail deadbeat
 dads or enroll them in jobs programs? How long is a father financially
-responsible for his child? As long as a child needs his help? Until courtordered
+responsible for his child? As long as a child needs his help? Until court-ordered
 child support expires? Until the child holds a press conference?
-Our society is deeply ambivalent and divided about each of these ques
-tions. For as fatherhood disintegrates around us, we grow more confused
-about just what fatherhood is. The end result is hardly surprising; What
+Our society is deeply ambivalent and divided about each of these questions.
+For as fatherhood disintegrates around us, we grow more confused
+about just what fatherhood is. The end result is hardly surprising: What
 Governor Sundlun, somewhat mistakenly, calls storybook fathers are in
 increasingly short supply.
