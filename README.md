@@ -4,7 +4,14 @@
 ![](images/FatherlessAmerica_003.jpg)
 ![](images/FatherlessAmerica_004.jpg)
 ![](images/FatherlessAmerica_005.jpg)
-
+#### Contents
+* [Acknowledgments](#acknowledgments)
+* [Introduction](#introduction)
+* [CHAPTER 1: The Diminishment of American Fatherhood](#chapter-1-the-diminishment-of-american-fatherhood)
+	* [The Shrinking American Father](#the-shrinking-american-father)
+	* [The Collapsing Bases of Good-Enough Fatherhood](#the-collapsing-bases-of-good-enough-fatherhood)
+	* [The Rise of Volitional Fatherlessness](#the-rise-of-volitional-fatherlessness)
+	* 
 ### Acknowledgments
 My most important author's debts are to my colleagues Barbara
 Dafoe Whitehead and David Popenoe, who started this project
@@ -48,7 +55,7 @@ but from my parents. For this reason,when I describe in
 this book the importance of committed parents, I am also describing their
 importance to me.
 
-### Indroduction
+### Introduction
 The United States is becoming an increasingly fatherless society. 
 A generation ago, an American child could reasonably expect to grow up
 with his or her father. Today, an American child can reasonably
