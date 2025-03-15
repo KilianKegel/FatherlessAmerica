@@ -1,9 +1,6 @@
 ![](images/FatherlessAmerica.jpg)
 ![](images/FatherlessAmerica_001.jpg)
 ![](images/FatherlessAmerica_002.jpg)
-![](images/FatherlessAmerica_003.jpg)
-![](images/FatherlessAmerica_004.jpg)
-![](images/FatherlessAmerica_005.jpg)
 #### Contents
 * [Acknowledgments](#acknowledgments)
 * [Introduction](#introduction)
@@ -11,7 +8,8 @@
 	* [The Shrinking American Father](#the-shrinking-american-father)
 	* [The Collapsing Bases of Good-Enough Fatherhood](#the-collapsing-bases-of-good-enough-fatherhood)
 	* [The Rise of Volitional Fatherlessness](#the-rise-of-volitional-fatherlessness)
-	* 
+* [CHAPTER 2: Fatherlessness Society](#chapter-2-fatherlessness-society)
+	* [Youth Violence](#youth-violence)
 ### Acknowledgments
 My most important author's debts are to my colleagues Barbara
 Dafoe Whitehead and David Popenoe, who started this project
@@ -414,8 +412,8 @@ increasingly short supply.
 
 ### The Shrinking American Father
 
-Prior to fragmenting—breaking into pieces, like Humpty Dumpty-fatherhood in our society spent a long time shrinking. Historically, the con
-traction of fatherhood both preceded and precipitated its disintegration.
+Prior to fragmenting—breaking into pieces, like Humpty Dumpty-fatherhood in our society spent a long time shrinking. Historically, 
+the contraction of fatherhood both preceded and precipitated its disintegration.
 In this sense, today's fragmentation of fatherhood represents the end point
 of a long historical process: the steady diminishment of fatherhood as a
 social role for men.
@@ -449,13 +447,13 @@ Of course, all of this eventually changed: not marginally, but fundamentally.
 First, industrialization and the modern economy led to the physical
 separation of home and work. No longer could fathers be in both places at
 once. No longer, according to Alexander Mitscherlich, could children typically 
-acquire skills "by watching one’s father, working with him, seeing the
+acquire skills "by watching one's father, working with him, seeing the
 way he handled things, observing the degree of knowledge and skill he had
-attained as well as his limitations." The nineteenth century’s "progressive
+attained as well as his limitations." The nineteenth century's "progressive
 fragmentation of labor, combined with mass production and complicated
 administration, the separation of home from the place of work, [and] the
 transition from independent producer to paid employee who uses con
-sumer goods" led to "a progressive loss of substance of the father’s author
+sumer goods" led to "a progressive loss of substance of the father's author
 ity and a diminution of his power in the family and over the family."<sup>12</sup>
 
 The major change in family life in the nineteenth century was the steady
@@ -484,51 +482,49 @@ however, the historical evidence is clear; Both the new economy and the
 new philosophy of the nineteenth century contributed to the sharp con
 traction of fatherhood as a social role.
 
-Stephen M. Frank summarizes the impact of these basic shifts: “As
+Stephen M. Frank summarizes the impact of these basic shifts: "As
 some fathers began to spend more time at work and less at home, and as
 family structure shifted away from patriarchal dominance and toward
-more companionate relationships, paternal requirements shrank.”<sup>15</sup>
+more companionate relationships, paternal requirements shrank."<sup>15</sup>
 As Susan Juster and Maris Vinovskis put it:<br>
 *The transition from the father to the mother as the primary socializer
 and educator of young children was completed by the nineteenth century. 
-The mother was now regarded as the “natural” caretaker of the
-child, and the father’s role was limited in practice to that of a supervisor
+The mother was now regarded as the "natural" caretaker of the
+child, and the father's role was limited in practice to that of a supervisor
 or the ultimate dispenser of discipline in the home.*<sup>16</sup>
 
 During the nineteenth century, fathers began a long march from the
-center to the periphery of domestic life. As Joseph H. Fleck observes: “A
+center to the periphery of domestic life. As Joseph H. Fleck observes: "A
 gradual and steady shift toward a greater role for the mother, and a
-decreased and indirect role for the father, is clear and unmistakable.”<sup>17</sup> As
+decreased and indirect role for the father, is clear and unmistakable."<sup>17</sup> As
 early as the 1830s, child-rearing manuals, now more often addressed to
-mothers, began to deplore the father’s absence from the home.<sup>18</sup> In cases
+mothers, began to deplore the father's absence from the home.<sup>18</sup> In cases
 of family dissolution, custody of children shifted decisively from fathers to
 mothers during this period.
 
-This shift should not be exaggerated. Describing “the continued vitality
-of fatherhood” in the nineteenth century, Frank’s examination of the let
-ters of Civil War soldiers reminds us that many fathers “continued to be
-enormous presences in their children’s lives,” fulfilling commitments as
-both providers and nurturers. “I think of you ... and wish I could be there
-to send Ed to bed on time,” wrote one soldier to his wife in 1863; “should
-I ever reach home again I feel thankful to think I am spared on Edwin’s
+This shift should not be exaggerated. Describing "the continued vitality
+of fatherhood" in the nineteenth century, Frank's examination of the let
+ters of Civil War soldiers reminds us that many fathers "continued to be
+enormous presences in their children's lives," fulfilling commitments as
+both providers and nurturers. "I think of you ... and wish I could be there
+to send Ed to bed on time," wrote one soldier to his wife in 1863; "should
+I ever reach home again I feel thankful to think I am spared on Edwin's
 account as I know he will grow up a bad boy unless some father guides
-him.”<sup>19</sup>  Despite its steady contraction, nineteenth-century fatherhood was
+him."<sup>19</sup>  Despite its steady contraction, nineteenth-century fatherhood was
 almost certainly stronger than its twentieth-century successor.
 
-<sup>18</sup> 
-
 Yet the overall trend of the nineteenth century is clearly toward the
-shrinking of fatherhood. “Paternal neglect,” warned a New England pastor 
-in 1842, was causing “the ruin of many families.”<sup>20</sup>By 1900, another
-worried observer could describe “the suburban husband and father
-“almost entirely a Sunday institution."<sup>21</sup>
+shrinking of fatherhood. "Paternal neglect," warned a New England pastor 
+in 1842, was causing "the ruin of many families."<sup>20</sup>By 1900, another
+worried observer could describe "the suburban husband and father
+"almost entirely a Sunday institution."<sup>21</sup>
 
 Within the home, the father retained his formal status as chief executive, 
 or head of the family, but had largely ceded to his wife the role of
-chief child raiser, manager, and decision maker. As Fleck puts it: “The
+chief child raiser, manager, and decision maker. As Fleck puts it: "The
 father continued to set the official standard of morality and to be the final
 arbiter of family discipline, but he did so at more of a remove than before:
-He stepped in only when the mother’s delegated authority failed"<sup>22</sup>
+He stepped in only when the mother's delegated authority failed"<sup>22</sup>
 
 Increasingly, men looked outside the home for the meaning of their
 maleness. Masculinity became less domesticated, defined less by effective
@@ -539,7 +535,7 @@ of the family and breadwinner.
 
 In our own century, of course, these two roles as well have undergone
 profound change. No longer conventional wisdom, each is now a fundamentally 
-contested idea. Both go to the heart of today’s great disagreements, 
+contested idea. Both go to the heart of today's great disagreements, 
 anxieties, and conflicts over gender identity and the family. The
 remarkable generational changes regarding these issues, illustrated in table
 1.1, clearly reflect the erosion throughout this century of the last two
@@ -554,9 +550,9 @@ remaining anchors of the traditional fatherhood script.
 |70-79|75|
 |80 and up|82|
 
-**TABLE 1.1** Adult Americans who agree that “It is much better for everyone
+**TABLE 1.1** Adult Americans who agree that "It is much better for everyone
 involved if the man is the achiever outside the home and the woman
-takes care of the home and family.”<br>
+takes care of the home and family."<br>
 <small>*Source:* National Opinion Research Center, combined data for the 1986-91.</small>
 
 Daniel Yankelovich also confirms this steady change in American attitudes:<br>
@@ -572,18 +568,18 @@ ber three position, at 67 percent. It has continued to erode.*<sup>24</sup>
 In sum, over the past two hundred years, fatherhood has lost, in full or
 in part, each of its four traditional roles; irreplaceable caregiver, moral educator, 
 head of family, and family breadwinner. As the historian Peter N.
-Steams put it: “An eighteenth-century father would not recognize the distance 
+Steams put it: "An eighteenth-century father would not recognize the distance 
 contemporary men face between work and home ... or the parental
-leadership granted to mothers or indeed the number of bad fathers.”<sup>25</sup>
+leadership granted to mothers or indeed the number of bad fathers."<sup>25</sup>
 
 The result is that fatherhood as a social role has been radically diminished 
 in three ways. First, it has become, in the most literal sense, smaller:
-There are simply fewer things that remain socially defined as a father’s distinctive 
+There are simply fewer things that remain socially defined as a father's distinctive 
 work. The script has been shortened to only a few pages.
 
 Second, fatherhood has been devalued. Within the home, fathers have
 been losing authority, within the wider society, fatherhood has been losing
-esteem. Many influential people in today’s public debate argue that, when
+esteem. Many influential people in today's public debate argue that, when
 all is said and done, fathers are simply not very important.
 
 Third, and most important, fatherhood has been diminished as paternity 
@@ -595,8 +591,8 @@ fatherhood could be tinier.
 
 A decultured paternity necessarily fractures any coherent social under
 standing of fatherhood. As fewer children live with their biological fathers,
-and more live with or near stepfathers, mothers’ boyfriends, or other male
-“role models,” biological fatherhood is being separated from social father
+and more live with or near stepfathers, mothers' boyfriends, or other male
+"role models," biological fatherhood is being separated from social father
 hood. In turn, social fatherhood, once detached from any one man,
 becomes more diffuse as an idea and elastic as a role-less a person than a
 style of relating to children.
@@ -604,18 +600,18 @@ style of relating to children.
 It is a wise child, the proverb goes, that knows its own father. To the
 degree that this teaching is true, a decultured paternity brings forth fewer
 wise children. Though most children certainly disfavor this trend—prefer
-ring to understand “my father” as one person rather than a series of disparate
+ring to understand "my father" as one person rather than a series of disparate
 relationships—the steady disembodiment and dispersal of social
 fatherhood are defining characteristics of deculturing paternity, succinctly
-captured by the title of a 1993 article in the *New York Times*: “‘Who Is My
-Daddy?’ Can Be Answered in Different Ways."<sup>26</sup>
+captured by the title of a 1993 article in the *New York Times*: "‘Who Is My
+Daddy?' Can Be Answered in Different Ways."<sup>26</sup>
 
 A decultured paternity transforms the callings of fatherhood from
 what might be termed simple but mandatory to complex but optional.
 To use a military metaphor, our cultural story no longer conscripts men
 into a uniform fatherhood service. Instead, fathers increasingly comprise 
 an all-volunteer force, small and flexible. No longer unambiguously 
-responsible for a fixed number of mandatory tasks, today’s decultured
+responsible for a fixed number of mandatory tasks, today's decultured
 fathers must largely select for themselves, from a complex menu
 of lifestyle options, the meaning of their paternity. Ultimately, a decultured
 paternity is incompatible with fatherhood as a defined role for men.
@@ -623,22 +619,22 @@ paternity is incompatible with fatherhood as a defined role for men.
 Finally, a decultured paternity signals the growing detachment of father
 hood from wider norms of masculinity. Consider several aspects of this
 phenomenon. In our elite discourse, masculinity is widely viewed as a
-problem to be overcome, frequently by insisting upon “new” fathers will
+problem to be overcome, frequently by insisting upon "new" fathers will
 ing to disavow any inherited understandings of masculinity. In popular culture, 
 the traditional male fantasy of sex without responsibility—the anti
 father world view of the adolescent male, as emblematized in the
 philosophy of Playboy magazine, James Bond movies, and Travis McGee
 novels—is an increasingly accepted cultural model in our society, less an
 accusation than an assumption about male behavior. In addition, in what
-the sociologist Elijah Anderson calls the “street culture” of our inner cities,
-men’s glorification of casual and even predatory sex, completely divorced
+the sociologist Elijah Anderson calls the "street culture" of our inner cities,
+men's glorification of casual and even predatory sex, completely divorced
 from responsible fatherhood, now constitutes the core of what Anderson
-calls the “sex code” of young minority males.<sup>27</sup>
+calls the "sex code" of young minority males.<sup>27</sup>
 
 All three of these otherwise distinct trends are linked by an underlying
 idea: the disintegrating connection between masculinity and responsible
 paternity. Being male is one thing. Being a good father is another. The latter 
-is no longer the pathway to proving the former. “Man” and “father”
+is no longer the pathway to proving the former. "Man" and "father"
 become separate and even dissimilar cultural categories.
 
 Consequently, as paternity is decultured, the larger meaning of masculinity 
@@ -647,12 +643,12 @@ hood thus produces a doubtful manhood. For without norms of effective
 paternity to anchor masculinity, the male project itself is increasingly called
 into question and even disrepute.
 
-Many analysts of gender issues in our century have pondered Freud’s
+Many analysts of gender issues in our century have pondered Freud's
 famous question: What do women want? Fewer have sought to name the
 most important question, the core issue, for men. Let me take a stab.
 
 Men, more than women, are culture-made. Fatherhood, in particular, is
-what the novelist Herbert Gold calls “a metaphysical idea”<sup>28</sup> — an imperfect 
+what the novelist Herbert Gold calls "a metaphysical idea"<sup>28</sup> — an imperfect 
 cultural improvisation designed not to express maleness but to social
 ize it. It derives less from sexual embodiment than from a social imperative:
 the need to obligate men to their offspring. Consequently, ideas about
@@ -723,13 +719,13 @@ When fatherhood is shrinking, a father is doing less, and perhaps doing
 it less well, but he is still a father. His role may be diminishing, but it is still
 coherent. He is still on the premises. His children see him every day. He is
 still a husband and a partner to their mother. He is responsible for protecting 
-and nurturing his children. He may not win any Father’s Day prizeshe may not be 
+and nurturing his children. He may not win any Father's Day prizeshe may not be 
 a very good father at all—but he is still recognizably a father.
 
 But when fatherhood is *fragmenting*, the identity and social definition of
 the father change not in degree but in kind. The new conditions, driven by
 divorce and out-of-wedlock childbearing, split the nucleus of the nuclear
-family. Now the father is physically absent. When he comes “home,” his
+family. Now the father is physically absent. When he comes "home," his
 children are not there. He is not a husband. Because the parental alliance
 has either ended or never begun, the mother has little reason or opportunity 
 to defend or even care about his fatherhood. In the most important
@@ -749,13 +745,13 @@ he becomes largely unrecognizable as a father.
 |Living with father			|82.4	|77.8	|65.1	|61.7 |
 
 **TABLE 1.3** Percentage of U.S. Children Living with Their Biological Fathers<br>
-<small>*Tables 1.2 and 1.3 Sources:* Donald J. Hernandez, “America’s Children; Resources from Family,
-Govenunem, and the Economy" (New York: Russell Sage Foundation, 1993), p. 65; “Marriage,
-Divorce, and Remarriage in the 1990’s,” U.S. Bureau of the Census, Current Population Reports,
+<small>*Tables 1.2 and 1.3 Sources:* Donald J. Hernandez, "America's Children; Resources from Family,
+Govenunem, and the Economy" (New York: Russell Sage Foundation, 1993), p. 65; "Marriage,
+Divorce, and Remarriage in the 1990's," U.S. Bureau of the Census, Current Population Reports,
 series P-23, no. 180 (Washington, D.C.: Government Printing Office, 1992), tables M and N, pps.
-11-12; “Marital Status and Living Arrangements: March 1980," U.S. Bureau of the Census, Cur
+11-12; "Marital Status and Living Arrangements: March 1980," U.S. Bureau of the Census, Cur
 rent Population Reports, series P-20, no. 365 (Washington, D.C.: Government Printing Office,
-1981), table 5, p. 31; and “Marital Status and Living Arrangements: March 1990," U.S. Bureau of
+1981), table 5, p. 31; and "Marital Status and Living Arrangements: March 1990," U.S. Bureau of
 the Census, Current Population Reports, series P-20, no. 450 (Washington, D.C.; Government
 Printing Office, 1991), table 6, p, 45.
 *Note:* Figures for 1980 and 1990 do not add up to 100 percent due to discrepancies of approximately 2 percent between tables M and N (see Sources) regarding the number of children living
@@ -772,7 +768,7 @@ divorce action, keep the child, and cut off all contact with Larry. Unhappy
 with this turn of events, Larry initiates legal action to establish his paternity 
 and win visitation rights. In deciding in favor of Larry, the Texas
 Supreme Court strikes down a state law declaring that a married man is
-presumed to be the father of his wife’s child, and that an unmarried man
+presumed to be the father of his wife's child, and that an unmarried man
 lacks paternal rights regarding the child of an intact marriage.<sup>30</sup>
 
 In Seattle, Megan Lucas, an unmarried mother, leaves her newborn son
@@ -780,7 +776,7 @@ with her seventeen-year-old sister. After Megan legally relinquishes her
 parental rights two years later, the child, by then in foster care, is scheduled 
 to be adopted by two gay men who are licensed foster parents. The
 mother changes her mind about the adoption and files to regain custody.
-The child’s father, the *New York Times** notes, “has not come forward.”<sup>31</sup>
+The child's father, the *New York Times** notes, "has not come forward."<sup>31</sup>
 
 In the media, the Texas story is interpreted largely as an expansion of
 the prerogatives of fatherhood. A father should be able to visit his child,
@@ -789,13 +785,13 @@ as an example of lingering bigotry against gay parents. Both stories are
 essentially about individual rights. Unwed fathers have rights. So do gay
 adoptive parents. Family law should be updated to recognize these rights.
 This interpretation should not surprise us. Increasingly in our national
-discourse, what Mary Ann Glendon terms “rights talk” trumps most other
+discourse, what Mary Ann Glendon terms "rights talk" trumps most other
 considerations. Yet surely the fundamental truth, the core social dynamic,
 of both of these stories is the fragmentation and dispersal of fatherhood. In
 one case, fatherhood is severed from, then directly opposed to, husbandhood
 and marriage. In the other, the father never even makes an appear
 ance. This is the trend that produces these and many other similar stories
-about fathers’ “rights.<sup>32</sup>
+about fathers' "rights.<sup>32</sup>
 
 Moreover, as fatherhood fragments, so do other institutions that depend
 on fatherhood. Marriage is an obvious example, but consider a less obvious one: 
@@ -808,26 +804,26 @@ directly from the fracturing of fatherhood.
 
 Consider the case of Baby Pete. In Vermont, Angela Harriman puts her
 newborn baby, Pete, up for adoption. She tells everyone that the father is
-Marcus Stoddard, her boyfriend. Angela’s estranged husband, Daniel, who
+Marcus Stoddard, her boyfriend. Angela's estranged husband, Daniel, who
 is living in Louisiana, apparently knows nothing of the pregnancy or the
 adoption. But when he learns what has happened, he takes legal action to
 gain custody of a child he has never seen. Blood tests eventually show that
-he, not Stoddard, is the probable father. Harriman tells a journalist: “I’m
+he, not Stoddard, is the probable father. Harriman tells a journalist: "I'm
 not doing this to get back at her. I just want my son.<sup>33</sup>
 
 In the media, the Baby Pete story is widely celebrated as having a happy
 ending. The adoptive parents will maintain physical custody of Pete, while
 Daniel Harriman will share legal custody with the adoptive mother and
 will have visitation rights. The adoptive father, described by the New York
-Times as now becoming “in effect, the stepfather,” declared; “Nobody lost,
-and the baby won.”<sup>34</sup> The editors of the *Times* agreed. As they saw it:<br>
+Times as now becoming "in effect, the stepfather," declared; "Nobody lost,
+and the baby won."<sup>34</sup> The editors of the *Times* agreed. As they saw it:<br>
 *Lawyers are already pointing to this agreement as a possible model for
-future squabbles over biological parents', adoptive parents’ and children’s rights. 
+future squabbles over biological parents', adoptive parents' and children's rights. 
 And so it could be.... The adults in the case put their own
 interests and emotions aside to do the right thing for a child. Bless
-them.”*<sup>35</sup>
+them."*<sup>35</sup>
 
-Bless them? Let’s see. A one-day-old infant is given up for adoption by a
+Bless them? Let's see. A one-day-old infant is given up for adoption by a
 mother who says that her boyfriend, not her estranged husband, is the
 father. This turns out to be untrue. Lawyers are called in. As a result, the
 mother drops out of the picture, the baby goes to adoptive parents, and
@@ -839,7 +835,7 @@ social institutions. More specifically, it is a consequence of the splitting
 apart of social from biological fatherhood. What results is men who
 impregnate women, and who at times assert paternal rights, but who find
 themselves hopelessly tangled up by a rather basic question: Who is this
-child’s rightful father? No one can figure it out. The Baby Pete case is a
+child's rightful father? No one can figure it out. The Baby Pete case is a
 model of our tortuous struggle to redefine parenthood as we become an
 increasingly fatherless society.
 
@@ -847,17 +843,17 @@ In this sense, the Baby Pete story has a happy ending in precisely the
 same way that child-support payments and cooperative divorces constitute
 happy endings. It is happy only insofar as we define happiness as our
 capacity to improve our procedures for managing the decline of father
-hood. As is often the case, the *New York Times*’s gushy endorsement of this
-entire philosophy—“For Once, the Baby Won”—hovers precariously on
+hood. As is often the case, the *New York Times*'s gushy endorsement of this
+entire philosophy—"For Once, the Baby Won"—hovers precariously on
 the boundary between conventional trendiness and self-parody.
 
 In sum, a new fatherhood has emerged in our society. But what is new is
-not the hands-on, nurturing “new” fatherhood so widely proclaimed and
+not the hands-on, nurturing "new" fatherhood so widely proclaimed and
 urged in the media and by parenting experts. Instead, measured according
 to demographic reach and social impact, what is truly new in our generation 
 is a fatherhood that is increasingly estranged from mothers and
 removed from where children live. Unlike previous fatherhood shifts in
-our nation’s history, these newly dominating conditions of paternity do not
+our nation's history, these newly dominating conditions of paternity do not
 simply change or even shrink fatherhood. They end it.
 
 ### The Rise of Volitional Fatherlessness
@@ -880,7 +876,7 @@ course of this century, the declining rate of paternal death has been
 matched, and rapidly surpassed, by the rising rate of paternal abandonment. 
 The shift began quite early. Even for parents of children born as
 early as 1910 through 1930, according to the demographer Peter Uhlenberg,
-“the increase in voluntarily broken marriages greatly exceeded the
+"the increase in voluntarily broken marriages greatly exceeded the
 decline in marriages broken by death.<sup>39</sup>
 
 By 1960, about 9 percent of all U.S. children lived in single-parent
@@ -898,7 +894,7 @@ dle-aged divorced men surpassed the number of middle-aged widowed
 men.<sup>41</sup> By 1992, only about 5 percent of all female-headed households
 with children had experienced the death of the father; about 37 percent
 had experienced parental divorce; and in 36 percent of these homes, the
-parents had never married.<sup>42</sup> For the first time in our nation’s history,
+parents had never married.<sup>42</sup> For the first time in our nation's history,
 millions of men today are voluntarily abdicating their fatherhood.
 
 Though paternal death and paternal abandonment are frequently
@@ -909,27 +905,27 @@ to fatherhood.
 
 Yet among social scientists who study fatherhood, the equivalency argument 
 is quite popular. Alvin L. Schorr and Phyllis Moen, for example, seek
-to disprove the notion that contemporary father absence is “unique and
-deviant”: “There have, for hundreds of years, been single-parent
+to disprove the notion that contemporary father absence is "unique and
+deviant": "There have, for hundreds of years, been single-parent
 families.... Early death of the father combined with an extended span of
 childbearing has made the single-parent family fairly common in the twen
 tieth century.<sup>43</sup> As the historian Tamara K. Hareven put it in her 
-testimony before a congressional committee concerned with family policy; “In
+testimony before a congressional committee concerned with family policy; "In
 fact, divorce now has a similar effect on family disruption that death once
-had.”<sup>44</sup>
+had."<sup>44</sup>
 
 In *The Way We Never Were*, the historian Stephanie Coontz emphasizes
 the same point. To Coontz, people who worry about fatherlessness today
-are historically illiterate, afflicted by a mental disability called “nostalgia,”
+are historically illiterate, afflicted by a mental disability called "nostalgia,"
 defined by Coontz as the tendency to believe in a past that never existed.
-Coontz explains: “Even though marriages today are more likely to be interrupted 
+Coontz explains: "Even though marriages today are more likely to be interrupted 
 by divorce than in former times, they are much less likely to be
 interrupted by death, so that about the same number of children spend
 their youth in single-parent households today as at the turn of the century,
 and far fewer live with neither parent.<sup>45</sup>
 Leave aside the facts showing that fewer than 10 percent of all children
 lived in one-parent homes in 1900, compared with 27 percent in 1992.<sup>46</sup>
-Instead, focus on Coontz’s larger thesis; Parental death and parental abandonment 
+Instead, focus on Coontz's larger thesis; Parental death and parental abandonment 
 are social equivalents. Before, we had one. Now we have the other. Same net result.
 
 This thesis, commonly asserted by scholars and widely repeated by journalists 
@@ -940,7 +936,7 @@ much closer to opposites.
 
 When a father dies, a child grieves. (I have lost someone I love.) When a
 father leaves, a child feels anxiety and self-blame. (What did I do wrong?
-Why doesn’t my father love me?) Death is final. (He won’t come back.)
+Why doesn't my father love me?) Death is final. (He won't come back.)
 Abandonment is indeterminate. (What would make him come back?)
 
 When a father dies, his fatherhood lives on, inside the head and heart of
@@ -972,3 +968,264 @@ tells us with great precision what is truly new about contemporary
 fatherhood.
 
 
+## CHAPTER 2: Fatherlessness Society
+
+Fatherhood is a social role that obligates men to their biological offspring. 
+For two reasons, it is society's most important role for men.
+First, fatherhood, more than any other male activity, helps men to
+become good men more likely to obey the law, to be good citizens, and to
+think about the needs of others. Put more abstractly, fatherhood bends
+maleness –in particular, male aggression– toward prosocial purposes.<sup>1</sup>
+Second, fatherhood privileges children. In this respect, fatherhood is a
+social invention designed to supplement maternal investment in children
+with paternal investment in children.
+
+Paternal investment enriches children in four ways. First, it provides
+them with a fathers physical protection. Second, it provides them with a
+father's money and other material resources. Third, and probably most
+important, it provides them with what might be termed paternal cultural
+transmission: a father's distinctive capacity to contribute to the identity,
+character, and competence of his children. Fourth, and most obviously,
+paternal investment provides children with the day-to-day nurturing —
+feeding them, playing with them, telling them a story — that they want and
+need from both of their parents. In virtually all human societies, children's
+well-being depends decisively upon a relatively high level of paternal
+investment.
+
+Indeed, many anthropologists view the rise of fatherhood as the key to
+the emergence the human family and, ultimately, of human civilization.
+As Jane and Chet Lancaster put it:
+
+*In the course of evolution, the keystone in the foundation of the human
+family was the capturing of male energy into the nurturance of the
+young... . The human family is a complex organizational structure for
+the garnering of energy to be transformed into the production of the
+next generaui 11, and its most essential feature is the collaboration of the
+male and fen parent in the division of labor.*<sup>2</sup>
+
+**In short, the key for men is to be fathers. The key for children is to have
+fathers. The key for society is to create fathers. For society, the primary
+results of fatherhood are right-doing males and better outcomes for children.**<br>
+Conversely, the primary consequences of fatherlessness are rising male violence 
+and declining child well-being. In the United States at the close of
+the twentieth century, paternal disinvestment has become the major cause
+of declining child well-being<sup>3</sup> and the underlying source of our most
+important social problems, especially those rooted in violence.
+
+### Youth Violence
+
+In November 1993, Joseph Chaney, Jr., made the front page of the *Wall
+Street Journal*. Arrested in Miami and charged with the crime of armed
+robbery, Joseph, age thirteen, was ordered by the grand jury to be
+tried as an adult. Like many American cities, Miami in the 1990s has
+become increasingly punitive toward children who commit violent
+crimes. The spread of such crime, according to the local judge, is making
+Miami "an absolutely deplorable place to live." Across the nation, judges
+and legislatures are finally running out of patience with children like
+Joseph — a child who has been arrested more than sixteen times since
+the age of six.<sup>4</sup>
+
+Joseph’s mother, Yvonne Jackson, is thirty-six years old, has never been
+married, and has three sons, each by a different man. None of the boys
+ever really had a father or knew his own father. Mario’s father is currently
+in prison. Jovon’s father recently died of AIDS. Joseph’s father is married
+to another woman. All three boys have been in constant trouble with the
+police.
+
+Yvonne’s older brother, Willie, is a veteran Miami police officer and the
+unmarried father of several children. He says he constantly worries about
+his nephews, and frequently asks his mother and his girlfriend to help
+Yvonne. (Willie does not ask for help from his and Yvonne’s father, who
+does not live with their mother.)
+
+In addition to receiving occasional help from Willie, Yvonne and her
+children have participated in a number of programs aimed at helping
+them. Yvonne completed a drug rehabilitation program, took a parenting
+course, and has regularly requested and received help from the children’s
+school counselors. Joseph attended a special counseling program for troubled youth.
+
+When Joseph Chaney, Sr., went to visit his thirteen-year-old son, awaiting 
+trial in a Miami detention center, he says he hardly recognized the little
+boy: “Something told me to go up to him and hug him, but I couldn’t.
+Something’s telling me to back off."<sup>5</sup>
+
+In 1994, the Carnegie Corporation devoted an entire issue of the
+*Carnegie Quarterly* to the topic of “Saving Youth from Violence.” In
+summarizing recent research on the sources of, and solutions for, youth violence, 
+the Carnegie Corporation came up with this list of factors that contribute 
+to youth violence: frustration, lack of social skills, being labeled
+“dumb,” poverty, drug and alcohol abuse, physical abuse and neglect, violence 
+on television and in video games, school days that are too short, the
+availability of guns, the failure to use antiviolence and conflict-resolution
+curricula in school classrooms and child-care centers, inadequate health
+care programs, the shortage of community-based life skills training pro
+grams, and the absence of effective mentoring programs for at-risk young
+people.<sup>6</sup>
+
+As something approaching panic about the problem of youth violence
+erupted across the nation during 1993 and 1994 –“Teen Violence: Wild in
+the Streets,” announced the cover of *Newsweek* in August 1993– numerous 
+prestigious institutions and scholars emphasized the same basic themes
+presented by the Carnegie Corporation. For example, the 
+American Psychological Association’s Commission on Violence and Youth issued a 1993
+report on *Youth and Violence*. The report attributes the rise of youth violence 
+to the following factors: 
+* access to guns
+* involvement in gangs and mobs
+* exposure to violence in the mass media
+* lack of parental supervision
+* physical punishment
+* substance abuse
+* social and inequality
+* prejudice and discrimination
+* and the lack of antiviolence programs and psychological services in schools and communities.<sup>7</sup>
+
+Along with just about everyone else, the commission calls for a comprehensive, 
+multiapproach solution to the problem.
+
+But what is wrong with these lists? Surely, all these “factors” can and
+do, at least indirectly, contribute to youth violence. Yet the single
+obvious factor — the one, moreover, most likely to produce the other factors — 
+is conspicuously absent from these reports and recommendations
+and from countless others like them.
+
+What was most absent in Joseph Chaney, Jr.’s, life? Why is this child
+going to jail for an adult crime? Admittedly, Joseph faced many problems.
+A mother who, by all accounts, was inattentive and ineffective. Poverty. A
+lousy neighborhood, full of guns and gangs. On the other hand, he had
+uncle, a police officer, who tried to “mentor” him. Hie and his family actually 
+received a great deal of help, or at least attention, from various social
+workers, court officers, school counselors, and community-based life skills
+training programs.
+
+At the risk of oversimplifying a complex problem, perhaps what Joseph
+Chaney, Jr., needed most—and suffered most from not receiving —was
+paternal guidance from Joseph Chaney, Sr. Indeed, in the story of Joseph's
+childhood, there is not a single instance of responsible fatherhood. No
+grandfather. An unavailable biological father. No legal or even informal
+stepfather. Even Joseph’s one male “role model,” his uncle is himself an
+unmarried father.
+
+Today the city of Miami, like the nation as a whole is fed up with
+Joseph and the growing number of children like him. We will put this little
+boy in jail, hoping that a prison will do what no father in his life was willing 
+or able to do: keep him off the streets and teach him what it means to
+be a man.
+
+In 1988, a congressional committee investigating the national surge in
+youth violence heard testimony from members of youth gangs. Here is part
+of an exchange between Congressman Dan Coats of Indiana and Shawn
+Grant, an eighteen-year-old from Philadelphia:
+
+In 1988, a congressional committee investigating the nsdonal surge in
+youth violence heard testimony from members of youth m, ;s. Here is part
+of an exchange between Congressman Dan Coats of Ii na and Shawn Grant, 
+an eighteen-year-old from Philadelphia:
+
+
+* MR. COATS: See, the question I’m getting at, Shawn is I'm wondering where are the fathers.<br>
+* MR. GRANT: Say it again?<br>
+* MR. COATS: I’m wondering where the dads are. I'm wondering why the fathers don’t rise up and say, “I’m not going to let this happen to my family. I don’t want my kid to get killed... .”<br>
+* MR. GRANT: Well, a lot of parents, you know, kids growing up nowadays, they get a certain age, they’re bigger than their parents. They intimidate their parents.
+* MR. COATS: So, just overwhelmed by them.
+* MR. GRANT: Especially if they’re on drugs or they come in the house drunk. Maybe a lady have a child who’s about six feet... .
+* MR. COATS: Well, what are you going to do when your son is bigger than you? He’s fifteen and comes in and says—
+* MR. GRANT: See, that’s when I’m going to try to take him to the court system or something. Then he’ll be put away. 
+             I think if he do a little time like I did and sit in somewhere for like— if he did a first offense, maybe just sitting 
+             there for like twenty-one days or something like in a detention juvenile center for awhile and think about what you did,
+             I think he’ll come around a little bit.<sup>8</sup>
+
+In this remarkable conversation, two themes stand out Congressman
+Coats begins by speaking specifically about “fathers,” but the discussion
+quickly shifts to “parents.” Boys get bigger than their parents.” Teenage
+boys can intimidate their “parents.” This abstract, genderless vocabulary
+has become a widely accepted convention in our academic and expert discourse
+on this subject, now observed even by teenagers from Philadelphia.
+
+But it intentionally obscures the main point. Yes, many teenage boys are
+bigger than their mothers. But very few are bigger than grown men, and
+very few can physically intimidate grown men—especially grown men on
+the premises who act like committed fathers.<sup>9</sup>
+
+Second, Shawn Grant does not seem to have a clue about what fathers
+do. (He told the committee that he used to “wonder about my father” and
+resent him for “not being around me.”)<sup>10</sup> If a son misbehaves, Shawn
+Grant’s idea is to “take him to the court system or something.” Yet Grant
+did not invent this idea. Indeed, on this very point, he is simply restating
+the philosophy of the Miami judicial system—lock up Joseph Chaney, Jr.—
+as well as the larger philosophy in our society, which is adamant about
+demanding more prisons but not very adamant at all about demanding
+more fathers.
+
+In *There Are No Children Here*, Alex Kotlowitz meticulously describes
+the world of Lafeyette and Pharoah Rivers, two boys living in a Chicago
+public housing project in the late 1980s.<sup>11</sup> It is a world of relentless, pitiless
+violence. It is a world in which children witness far more murders than
+they do weddings—and in which welfare mothers commonly purchase
+funeral insurance for their small children. It is also a world largely without
+responsible adult males, a world in which Kodowitz observes a twelveyear-
+old boy trying to be a man without knowing how, worrying about the
+safety of his younger siblings “like a father worrying about his children."<sup>12</sup>
+So closely are these two themes intertwined—growing violence rooted in
+growing fatherlessness—that Kotlowitz might just as appropriately have
+named his study *There Are No Fathers Here*.
+
+Yet our society remains curiously reluctant to name this problem. Much
+of our national discussion of youth crime simply ignores the elephant in
+the room called fatherlessness. Moreover, many analysts come quite close
+to viewing all traditional norms of fatherhood not as a remedy for the
+problem of youth violence but rather as a leading cause of it.
+In *Boys Will Be Boys*, Myriam Miedzian seeks to identify the primary
+source of “criminal and domestic violence” in the United States in what
+she terms the “male mystique”—the values of toughness, dominance,
+repression of empathy, and competitiveness that comprise the inherited
+manhood script in our society. These historically defined male norms, she
+argues, are the primary seedbeds of violent crime. In other words, modem
+violence is the result of traditional masculinity. Only by fundamentally
+revising the latter can we reduce the former.
+
+She describes the father who embodies this destructive masculine mystique:<br>
+*He does not express much emotion. He doesn’t cry. He is very concerned with 
+dominance, power, being tough. His taste in movies runs to
+John Wayne and Sylvester Stallone. On TV he watches violent shows
+like “Miami Vice” and “Hawaii Five-O.” Whatever his actual behavior
+may be, he is likely to indulge in callous sexual talk about women. He
+may feel that a high level of involvement in child care is unmanly.*<sup>13</sup>
+
+Such fathers, she concludes, “reinforce in their sons just those qualities
+that serve to desensitize them and make them more prone to commit violent 
+acts or condone them."<sup>14</sup>
+
+Miedzian’s thesis is widely accepted among the experts in this field, pervading 
+many of the current reports and recommendations concerning
+youth violence. Yet I would like to offer a good word for this type of
+father. Doubtless he is far from perfect. But there is one sin of which he is
+almost certainly innocent. He is not the reason why young boys commit crimes.
+
+In fact, exactly the opposite is more likely to be true. This type of
+father—playing rough with his children, teaching his sons to be tough and
+competitive, coming home every night to watch football or crime shows on
+TV while seeking to repress some of his anxieties or doubts — may not
+deserve the Dad of the Year Award, but as for the probability that he or his
+sons will commit criminally violent acts, he is much more likely to deserve
+letter of commendation from the local police department than to deserve
+the charge that Miedzian levels against him.
+
+There are exceptions, of course, but here is the rule: Boys raised by tra
+ditionally masculine fathers generally do not commit crimes. Fatherless
+boys commit crimes.
+
+Both clinical studies and anthropological investigations confirm the
+process through which boys seek to separate from their mothers in search
+of the meaning of their maleness. In this process, the father is irreplaceable. 
+He enables the son to separate from the mother. He is the gatekeeper,
+guiding his son into the community of men, teaching him to name the
+meaning of his embodiment, showing him on good authority than he can
+be “man enough."<sup>15</sup>
+
+In this process, the boy becomes more than the son of his mother, or
+even the son of his parents. He becomes the son of his father. Later, when
+the boy becomes a man, he will reunite with the world of women, the
+world of his mother, through his spouse and children. In this sense, only
+by becoming his father’s as well as his mother’s son can he become a good
+father and husband.<sup>16</sup>
