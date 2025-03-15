@@ -6,7 +6,7 @@
 ![](images/FatherlessAmerica_005.jpg)
 
 ### Acknowledgments
-My most important author’s debts are to my colleagues Barbara
+My most important author's debts are to my colleagues Barbara
 Dafoe Whitehead and David Popenoe, who started this project
 with me and made enormous contributions in the early stages of
 the book, Barbara Dafoe Whitehead contributed heavily to the first three
@@ -34,7 +34,7 @@ tin Kessler, Elizabeth Lurie, and Dana Mack.
 
 This book would never have been possible without the support and
 encouragement of the Institute for American Values. I am especially grate
-ful to the Institute’s Board of Directors and financial supporters for mak
+ful to the Institute's Board of Directors and financial supporters for mak
 ing it possible for me to undertake this project.
 
 My wife, Raina Sacks Blankenhorn, read every draft of every chapter
@@ -58,7 +58,7 @@ fatherhood as a defining feature of American childhood.
 This astonishing fact is reflected in many statistics, but here are the two
 most important. Tonight, about 40 percent of American children will go to
 sleep in homes in which their fathers do not live. Before they reach the age
-of eighteen, more than half of our nation’s children are likely to spend at
+of eighteen, more than half of our nation's children are likely to spend at
 least a significant portion of their childhoods living apart from their
 fathers.* Never before in this country have so many children been voluntarily 
 abandoned by their fathers. Never before have so many children
@@ -106,7 +106,7 @@ Out-of-wedlock childbearing. Children growing up in poverty. Youth violence.
 Unsafe neighborhoods. Domestic violence. The weakening of
 parental authority. But in these discussions, we seldom acknowledge the
 underlying phenomenon that binds together these otherwise disparate
-issues; the flight of males from their children’s lives. In fact, we seem to go
+issues; the flight of males from their children's lives. In fact, we seem to go
 out of our way to avoid the connection between our most pressing social
 problems and the trend of fatherlessness.
 
@@ -121,7 +121,7 @@ discourse. Consequently, our society is now manifestly unable to sustain, or
 find reason to believe in, fatherhood as a distinctive domain of male activity.
 
 The core question is simple: Does every child need a father? Increasingly, 
-our society’s answer is “no,” or at least “not necessarily.” Few idea
+our society's answer is "no," or at least "not necessarily." Few idea
 shifts in this century are as consequential as this one. At stake is nothing
 less than what it means to be a man, who our children will be, and what
 kind of society we will become.
@@ -151,7 +151,7 @@ But fatherhood is a different matter. A father makes his sole biological
 contribution at the moment of conception—nine months before the infant
 enters the world. Because social paternity is only indirectly linked to biological 
 paternity, the connection between the two cannot be assumed. The
-phrase “to father a child” usually refers only to the act of insemination, not
+phrase "to father a child" usually refers only to the act of insemination, not
 to the responsibility for raising a child, what fathers contribute to their
 offspring after conception is largely a matter of cultural devising.
 
@@ -169,7 +169,7 @@ investment.
 Because fatherhood is universally problematic in human societies, cultures 
 must mobilize to devise and enforce the father role for men, coaxing
 and guiding them into fatherhood through a set of legal and extralegal
-pressures that require them to maintain a close alliance with their children’s 
+pressures that require them to maintain a close alliance with their children's 
 mother and to invest in their children. Because men do not volunteer 
 for fatherhood as much as they are conscripted into it by the surrounding
 culture, only an authoritative cultural story of fatherhood can fuse
@@ -201,7 +201,7 @@ founders of the American experiment called the pursuit of happiness.
 
 The stakes on this issue could hardly be higher. Our society's conspicuous failure
 to sustain or create compelling norms of fatherhood amounts to
-a social and personal disaster. Today’s story of fatherhood features one
+a social and personal disaster. Today's story of fatherhood features one
 dimensional characters, an unbelievable plot, and an unhappy ending. It
 reveals in our society both a failure of collective memory and a collapse of
 moral imagination. It undermines families, neglects children, causes or
@@ -212,7 +212,7 @@ Ultimately, this failure reflects nothing less than a culture gone awry:
 a culture increasingly unable to establish the boundaries, erect the signposts,
 and fashion the stories that can harmonize individual happiness with collective 
 well-being. In short, it reflects a culture that increasingly fails to
-“enculture” individual men and women, mothers and fathers.
+"enculture" individual men and women, mothers and fathers.
 
 In personal terms, the end result of this process, the final residue from
 what David Gutmann calls the "deculturation"" of paternity, is narcissism: a
@@ -235,7 +235,7 @@ man "puts his family first."
 If this book could be distilled into one sentence, it would be this:
 **A good society celebrates the ideal of the man who puts his family first.**
 Because our society is now lurching in the opposite direction, I see the
-Good Family Man as the principal casualty of today’s weakening father
+Good Family Man as the principal casualty of today's weakening father
 hood script. And because I cannot imagine a good society without him, I
 offer him as the protagonist in the stronger script that I believe is both 
 necessary and possible.
@@ -245,7 +245,7 @@ necessary and possible.
 A Michigan high school senior, Kara Hewes, enters a crowded conference 
 room to face cameras and reporters. She is about to make a
 public appeal to her seventy-three-year-old father. She asks him to
-admit his paternity. "I’d just like him to be a father," she says. "I want very
+admit his paternity. "I'd just like him to be a father," she says. "I want very
 much to develop a relationship with him."^1^ Her biological father, identified 
 through a reliable blood test, is Bruce Sundlun, World War II Air
 Force captain. Harvard Law School graduate, and second-term governor
@@ -254,17 +254,17 @@ of Rhode Island.
 Kara Hewes gets her wish. Shortly after the press conference in June
 1993, Sundlun acknowledges his paternity and agrees to pay Kara's college
 tuition. She withdraws her paternity suit. Father and daughter dine
-together in the governor’s mansion, and he invites her to visit him and his
+together in the governor's mansion, and he invites her to visit him and his
 other children at his Newport estate.^2^
 
 The governor's supporters are confident that the publicity will not damage 
 his political career. After all, this is a complicated case. The thrice-divorced
 governor was single at the time he fathered Kara. He had already
-paid $30,000 to Kara’s mother to settle an earlier suit, and Kara had been
+paid $30,000 to Kara's mother to settle an earlier suit, and Kara had been
 adopted by her stepfather, who later vanished. Another important point in
 Sundlun's favor, say his supporters, is that the governor has always been
-forthcoming about his personal life. “His frankness and candidness with
-the people of this state deserve a great deal of respect,” says Julius
+forthcoming about his personal life. "His frankness and candidness with
+the people of this state deserve a great deal of respect," says Julius
 Michaelson, a friend and former Rhode Island state attorney general.^3^
 
 As for the governor, he is reluctant to dwell on the past: "I think the
@@ -272,7 +272,7 @@ important thing is not to look back," he later tells reporters in a joint press
 conference with his daughter. "We're here to look forward and try to create
 a relationship. You can't wave a magic wand and have a storybook life.^4^
 
-Governor Sundlun’s unstorybook story, though a bit more public than
+Governor Sundlun's unstorybook story, though a bit more public than
 most, has become increasingly common. It is a story unfolding in countless
 courtrooms, lawyers' suites, and welfare offices across the nation. 
 Like the Fatherlessness governor, more and more men are fathering 
@@ -280,9 +280,9 @@ children outside of marriage.
 More and more men are failing to support or even acknowledge their children. 
 More and more men are simply vanishing from their children's lives.
 
-Kara Hewes’s story is also familiar. A growing number of American children 
+Kara Hewes's story is also familiar. A growing number of American children 
 have no relationship with their fathers. Court and school officials
-report that many children do not even know what to put in the "Father’s
+report that many children do not even know what to put in the "Father's
 Name" blank on printed forms. An even larger proportion of children
 have only the slightest acquaintance with their fathers. In its 1991 survey of
 children in the United States, the National Commission on Children
@@ -291,19 +291,19 @@ described the spreading phenomenon of father-child relationships that
 
 Fathers are vanishing legally as well as physically. About one-third of all
 childbirths in the nation now occur outside of marriage. In most of these
-cases, the place for the father’s name on the birth certificate is simply left
+cases, the place for the father's name on the birth certificate is simply left
 blank. In at least two of every three cases of unwed parenthood, the father
 is never legally identified.^6^ Not surprisingly, paternity suits are on the rise.
 
-When Governor Sundlun says that we "can’t wave a magic wand and
+When Governor Sundlun says that we "can't wave a magic wand and
 have a storybook life," he implies that the storybooks may be unrealistic.
 The governor need not worry: Even storybooks for children now reflect
 his kind of fatherhood. "There are different kinds of daddies," one book
 for preschoolers states, and "sometimes a Daddy goes away like yours did.
-He may not sec his children at all."^7^ Another children’s book is equally
+He may not sec his children at all."^7^ Another children's book is equally
 candid: "Some kids know both their mom and dad, and some kids don't."
 One child in this book says: "I never met my dad, but I know that he lives
-in a big city." Another says: "I’ll bet my dad is really big and strong."^8^
+in a big city." Another says: "I'll bet my dad is really big and strong."^8^
 
 So Kara Hewes and Governor Sundlun are, after all, something of a
 storybook story. It is one we all know. It is becoming our society's story.
@@ -316,7 +316,7 @@ Imagine something big, made out of glass, called fatherhood. First
 imagine it slowly shrinking. Then imagine it suddenly shattering into
 pieces. Now look around. Try to identify the shards. Over here is marriage.
 Over there is procreation. Over here, manhood. Over there, parenthood.
-Here, rights. There, responsibilities. In this direction, what’s best for me.
+Here, rights. There, responsibilities. In this direction, what's best for me.
 In that direction, what's best for my child.
 
 Off to one side, looking nervous, is an emaciated fellow we must now
@@ -404,3 +404,262 @@ For as fatherhood disintegrates around us, we grow more confused
 about just what fatherhood is. The end result is hardly surprising: What
 Governor Sundlun, somewhat mistakenly, calls storybook fathers are in
 increasingly short supply.
+
+### The Shrinking American Father
+
+Prior to fragmenting—breaking into pieces, like Humpty Dumpty-fatherhood in our society spent a long time shrinking. Historically, the con
+traction of fatherhood both preceded and precipitated its disintegration.
+In this sense, today's fragmentation of fatherhood represents the end point
+of a long historical process: the steady diminishment of fatherhood as a
+social role for men.
+
+Over the past two hundred years, fathers have gradually moved from
+the center to the periphery of family life. As the social role for fathers has
+diminished, so our cultural story of fatherhood has by now almost completely 
+ceased to portray fathers as essential guarantors of child and 
+societal well-being. Not to be overly gloomy, but in some respects it has been
+all downhill for fathers since the Industrial Revolution.
+
+In colonial America, fathers were seen as primary and irreplaceable
+caregivers. According to both law and custom, fathers bore the ultimate
+responsibility for the care and well-being of their children, especially older
+children. Throughout the eighteenth century, for example, child-rearing
+manuals were generally addressed to fathers, not mothers. Until the early
+nineteenth century, in almost all cases of divorce, it was established practice 
+to award the custody of children to fathers. Throughout this period,
+fathers, not mothers, were the chief correspondents with children who
+lived away from home.
+
+More centrally, fathers largely guided the marital choices of their children and 
+directly supervised the entry of children, especially sons, into the
+world outside the home. Most important, fathers assumed primary responsibility 
+for what was seen as the most essential parental task: the religious
+and moral education of the young. As a result, societal praise or blame for
+a child's outcome was customarily bestowed not (as it is today) on the
+mother but on the father.<sup>11</sup>
+
+Of course, all of this eventually changed: not marginally, but fundamentally. 
+First, industrialization and the modern economy led to the physical
+separation of home and work. No longer could fathers be in both places at
+once. No longer, according to Alexander Mitscherlich, could children typically 
+acquire skills "by watching one’s father, working with him, seeing the
+way he handled things, observing the degree of knowledge and skill he had
+attained as well as his limitations." The nineteenth century’s "progressive
+fragmentation of labor, combined with mass production and complicated
+administration, the separation of home from the place of work, [and] the
+transition from independent producer to paid employee who uses con
+sumer goods" led to "a progressive loss of substance of the father’s author
+ity and a diminution of his power in the family and over the family."<sup>12</sup>
+
+The major change in family life in the nineteenth century was the steady
+feminization of the domestic sphere. Accompanying this radical change
+were a host of new ideas about gender identity and family life—some
+focusing on childhood as a special and separate "tender years" stage of life,
+others on what were believed to be the special capacities of women to care
+for children and to create, in contrast to the outside world dominated by
+men, a secure moral ethos for family life.
+
+One important consequence of these new ideas was the relative decline
+of patriarchy and the shift toward more companionate models of marriage
+and parenthood. The historian Carl Degler, describing the increasingly
+"attenuated character" of nineteenth-century patriarchy, concludes that
+"the companionate marriage placed limits on the power of the husband"
+and led to the "relatively democratic role of the father in the nineteenthcentury
+family."<sup>13</sup> As early as the 1830s, Alexis de Tocqueville could praise
+the "influence of democracy" on fatherhood in America, even as it led to
+the fact that "paternal authority, if not destroyed, is at least impaired.<sup>14</sup>
+
+From a modem perspective, this philosophical shift, this emerging
+ethos of the companionate family, is praiseworthy. Certainly our society
+could not, and does not wish to, recreate for our time the model of the
+agrarian patriarchal father. Regarding the cultural meaning of paternity,
+however, the historical evidence is clear; Both the new economy and the
+new philosophy of the nineteenth century contributed to the sharp con
+traction of fatherhood as a social role.
+
+Stephen M. Frank summarizes the impact of these basic shifts: “As
+some fathers began to spend more time at work and less at home, and as
+family structure shifted away from patriarchal dominance and toward
+more companionate relationships, paternal requirements shrank.”<sup>15</sup>
+As Susan Juster and Maris Vinovskis put it:<br>
+*The transition from the father to the mother as the primary socializer
+and educator of young children was completed by the nineteenth century. 
+The mother was now regarded as the “natural” caretaker of the
+child, and the father’s role was limited in practice to that of a supervisor
+or the ultimate dispenser of discipline in the home.*<sup>16</sup>
+
+During the nineteenth century, fathers began a long march from the
+center to the periphery of domestic life. As Joseph H. Fleck observes: “A
+gradual and steady shift toward a greater role for the mother, and a
+decreased and indirect role for the father, is clear and unmistakable.”<sup>17</sup> As
+early as the 1830s, child-rearing manuals, now more often addressed to
+mothers, began to deplore the father’s absence from the home.<sup>18</sup> In cases
+of family dissolution, custody of children shifted decisively from fathers to
+mothers during this period.
+
+This shift should not be exaggerated. Describing “the continued vitality
+of fatherhood” in the nineteenth century, Frank’s examination of the let
+ters of Civil War soldiers reminds us that many fathers “continued to be
+enormous presences in their children’s lives,” fulfilling commitments as
+both providers and nurturers. “I think of you ... and wish I could be there
+to send Ed to bed on time,” wrote one soldier to his wife in 1863; “should
+I ever reach home again I feel thankful to think I am spared on Edwin’s
+account as I know he will grow up a bad boy unless some father guides
+him.”<sup>19</sup>  Despite its steady contraction, nineteenth-century fatherhood was
+almost certainly stronger than its twentieth-century successor.
+
+<sup>18</sup> 
+
+Yet the overall trend of the nineteenth century is clearly toward the
+shrinking of fatherhood. “Paternal neglect,” warned a New England pastor 
+in 1842, was causing “the ruin of many families.”<sup>20</sup>By 1900, another
+worried observer could describe “the suburban husband and father
+“almost entirely a Sunday institution."<sup>21</sup>
+
+Within the home, the father retained his formal status as chief executive, 
+or head of the family, but had largely ceded to his wife the role of
+chief child raiser, manager, and decision maker. As Fleck puts it: “The
+father continued to set the official standard of morality and to be the final
+arbiter of family discipline, but he did so at more of a remove than before:
+He stepped in only when the mother’s delegated authority failed"<sup>22</sup>
+
+Increasingly, men looked outside the home for the meaning of their
+maleness. Masculinity became less domesticated, defined less by effective
+paternity and more by individual ambition and achievement.<sup>23</sup>  Fatherhood
+became a thinner social role. Paternal authority declined as the fatherhood
+script came to be anchored in, and restricted to, two paternal tasks: head
+of the family and breadwinner.
+
+In our own century, of course, these two roles as well have undergone
+profound change. No longer conventional wisdom, each is now a fundamentally 
+contested idea. Both go to the heart of today’s great disagreements, 
+anxieties, and conflicts over gender identity and the family. The
+remarkable generational changes regarding these issues, illustrated in table
+1.1, clearly reflect the erosion throughout this century of the last two
+remaining anchors of the traditional fatherhood script.
+
+|Age group| Percent who agree|
+|--|--|
+|18-29|27|
+|30-44|28|
+|45-39|47|
+|60-69|63|
+|70-79|75|
+|80 and up|82|
+
+**TABLE 1.1** Adult Americans who agree that “It is much better for everyone
+involved if the man is the achiever outside the home and the woman
+takes care of the home and family.”<br>
+*Source:* National Opinion Research Center, combined data for the 1986-91.
+
+
+Daniel Yankelovich also confirms this steady change in American attitudes:<br>
+*until the late 1960s, being a real man meant being a good provider for
+the family. No other conception of what it means to be a real man came
+even close. Concepts of sexual potency, or physical strength, or strength
+of character (manliness), or even being handy around the house were relegated 
+to the bottom of the list of traits associated with masculinity. By
+the late 1970s, however, the definition of a real man as a good provider
+had slipped from its number one spot (86 percent in 1968) to the num
+ber three position, at 67 percent. It has continued to erode.*<sup>24</sup>
+
+In sum, over the past two hundred years, fatherhood has lost, in full or
+in part, each of its four traditional roles; irreplaceable caregiver, moral educator, 
+head of family, and family breadwinner. As the historian Peter N.
+Steams put it: “An eighteenth-century father would not recognize the distance 
+contemporary men face between work and home ... or the parental
+leadership granted to mothers or indeed the number of bad fathers.”<sup>25</sup>
+
+The result is that fatherhood as a social role has been radically diminished 
+in three ways. First, it has become, in the most literal sense, smaller:
+There are simply fewer things that remain socially defined as a father’s distinctive 
+work. The script has been shortened to only a few pages.
+
+Second, fatherhood has been devalued. Within the home, fathers have
+been losing authority, within the wider society, fatherhood has been losing
+esteem. Many influential people in today’s public debate argue that, when
+all is said and done, fathers are simply not very important.
+
+Third, and most important, fatherhood has been diminished as paternity 
+has become *decultured*-denuded of any authoritative social content
+or definition. A decultured paternity is a minimalist paternity. It is biology
+without society. As an extreme example, consider the phenomenon of the
+sperm bank: fatherhood as anonymous insemination. No definition of
+fatherhood could be tinier.
+
+A decultured paternity necessarily fractures any coherent social under
+standing of fatherhood. As fewer children live with their biological fathers,
+and more live with or near stepfathers, mothers’ boyfriends, or other male
+“role models,” biological fatherhood is being separated from social father
+hood. In turn, social fatherhood, once detached from any one man,
+becomes more diffuse as an idea and elastic as a role-less a person than a
+style of relating to children.
+
+It is a wise child, the proverb goes, that knows its own father. To the
+degree that this teaching is true, a decultured paternity brings forth fewer
+wise children. Though most children certainly disfavor this trend—prefer
+ring to understand “my father” as one person rather than a series of disparate
+relationships—the steady disembodiment and dispersal of social
+fatherhood are defining characteristics of deculturing paternity, succinctly
+captured by the title of a 1993 article in the *New York Times*: “‘Who Is My
+Daddy?’ Can Be Answered in Different Ways."<sup>26</sup>
+
+A decultured paternity transforms the callings of fatherhood from
+what might be termed simple but mandatory to complex but optional.
+To use a military metaphor, our cultural story no longer conscripts men
+into a uniform fatherhood service. Instead, fathers increasingly comprise 
+an all-volunteer force, small and flexible. No longer unambiguously 
+responsible for a fixed number of mandatory tasks, today’s decultured
+fathers must largely select for themselves, from a complex menu
+of lifestyle options, the meaning of their paternity. Ultimately, a decultured
+paternity is incompatible with fatherhood as a defined role for men.
+
+Finally, a decultured paternity signals the growing detachment of father
+hood from wider norms of masculinity. Consider several aspects of this
+phenomenon. In our elite discourse, masculinity is widely viewed as a
+problem to be overcome, frequently by insisting upon “new” fathers will
+ing to disavow any inherited understandings of masculinity. In popular culture, 
+the traditional male fantasy of sex without responsibility—the anti
+father world view of the adolescent male, as emblematized in the
+philosophy of Playboy magazine, James Bond movies, and Travis McGee
+novels—is an increasingly accepted cultural model in our society, less an
+accusation than an assumption about male behavior. In addition, in what
+the sociologist Elijah Anderson calls the “street culture” of our inner cities,
+men’s glorification of casual and even predatory sex, completely divorced
+from responsible fatherhood, now constitutes the core of what Anderson
+calls the “sex code” of young minority males.<sup>27</sup>
+
+All three of these otherwise distinct trends are linked by an underlying
+idea: the disintegrating connection between masculinity and responsible
+paternity. Being male is one thing. Being a good father is another. The latter 
+is no longer the pathway to proving the former. “Man” and “father”
+become separate and even dissimilar cultural categories.
+
+Consequently, as paternity is decultured, the larger meaning of masculinity 
+in our society becomes unclear and divisive. A decultured father
+hood thus produces a doubtful manhood. For without norms of effective
+paternity to anchor masculinity, the male project itself is increasingly called
+into question and even disrepute.
+
+Many analysts of gender issues in our century have pondered Freud’s
+famous question: What do women want? Fewer have sought to name the
+most important question, the core issue, for men. Let me take a stab.
+
+Men, more than women, are culture-made. Fatherhood, in particular, is
+what the novelist Herbert Gold calls “a metaphysical idea”<sup>28</sup> — an imperfect 
+cultural improvisation designed not to express maleness but to social
+ize it. It derives less from sexual embodiment than from a social imperative:
+the need to obligate men to their offspring. Consequently, ideas about
+masculinity and fatherhood are inextricably rooted in social functions.
+
+For this reason, the core question for men today is almost certainly
+less about desire than about function. Or perhaps it is that men, more
+so than women, cannot name their desires without affirming their 
+functions-recognizing and enjoying the special work that society needs
+them to do.
+
+So the question is not, *What do men want?* but rather. *What do men do?*
+
+**Central to that question is the fatherhood script — thus the core question is
+really, *What do fathers do?* Yet here is our tragedy. Our society is unable to
+answer this question.**
