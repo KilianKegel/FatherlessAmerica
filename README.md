@@ -14,6 +14,8 @@
 	* [Child Sexual Abuse](#child-sexual-abuse)
 	* [Child Poverty and Economic Insecurity](#child-poverty-and-economic-insecurity)
 	* [Adolescent Childbearing](#adolescent-childbearing)
+* [CHAPTER 3: The Lost Idea](#chapter-3-the-lost-idea)
+	* [Bring Daddy Home](#bring-daddy-home)
 
 ###### PAGEs
 |||||
@@ -2097,6 +2099,57 @@ mentoring programs, antiviolence curricula, boyfriends, antistalking laws,
 children’s advocates, income transfers, self-esteem initiatives, or even
 mothers. We will solve it only with fathers.**
 
+##### PAGE 49
 ## CHAPTER 3: The Lost Idea
+The fatherless family of the United States in the late twentieth century
+is a social invention of the most daring and untested design. 
+It represents a radical departure from virtually all of human history and experience.
+
+In his classic statement, the anthropologist Bronislaw Malinowski enunciated the fatherhood 
+idea that has guided human societies up to this point in history:
+
+*The most important moral and legal rule concerning the physiological site of kinship is that no child should be brought into the world without a man—and one man at that-assuming the role of sociological father, that is, of guardian and protector, the male link between the child and the rest of the community. I think that this generalization amounts to a universal sociological law and as such I have called it in some of my previous writings the principle of legitimacy.*
+
+Malinowski describes significant cultural variations in the expression of the legitimacy principle, but insists upon the universality of the core idea:
+
+*Yet through all the variations there runs the rule that the father is indispensable for the full sociological status of the child as well as of its mother, that the group consisting of a woman and her offspring is sociologically incomplete and illegitimate. The father, in other words, is necessary for the full legal status of the family.*<sup>1</sup>
+
+Admittedly, for many Americans, a universal principle is hard to respect. After all, we are a nation with an exceptionalist heritage. Our tradition, as Harold Rosenberg puts it, is "the tradition of the new." Rebellious individualism runs deep in our national character, including rebellion against the family, especially fathers.
+
+##### PAGE 50
+Yet even in the United States, the fatherhood idea, as summarized by Malinowski, has endured until quite recently. Indeed, to consider the particulars of the American experience is to grasp just how recent and radical is the idea that children do not necessarily need fathers.
+
+### Bring Daddy Home
+
+Concern about fatherlessness is a recurring theme in American history. As an immigrant, frontier, and slave-owning society, the United States in the eighteenth and nineteenth centuries presented harsh challenges to family life. Many children lost parents during the journey to America. Compared to life in Europe, childhood in the United States, especially near the fron-tier, could be chaotic and dangerous. Many African-American children experienced an unspeakably cruel form of father loss, forcibly separated from their fathers at the auction block.<sup>3</sup>
+
+War, in particular, separated fathers from their children. Recruiting soldiers meant breaking up families. During the Civil War, for example, an orphanage official worried that "withdrawing men of the laboring classes from civil life into the army... has increased the number of women of those classes who are compelled to seek our sheltering wards, or leave with us their helpless children."<sup>4</sup> 
+And, of course, war brought the terrible threat of untimely death. During the Civil War, the nation's bloodiest conflict, over 618,000 soldiers died. Although not all of these men were fathers— most Civil War soldiers were quite young, between the ages of fourteen and twenty-four—one study estimates that between one-third and two-fifths of all Union soldiers were married men.<sup>5</sup>
+
+In his study of letters written by Union soldiers, Stephen M. Frank shows how these absent fathers struggled to remain involved in their children's lives, questioning and advising their wives on everything from diet to discipline. These men worried about their children's safety- one soldier told his wife to sell his pistol, fearing that his small son would try to play with it—and that their children might forget them.<sup>6</sup>
+
+"I often ask myself whether our little Callie speaks of her 'pa," a 
+Southern soldier wrote to his wife. "Does she remember me?"<sup>7</sup>
+These soldier-fathers 
+especially yearned to see the babies born while they were away. "I want to see the children very bad," 
+wrote another Confederate father;
+"their is sevril men in the same fix that I am in that hav young babs at home that they never saw."<sup>8</sup>
+This paternal solicitude is more than touching.
+It reveals a primary truth of wartime fatherhood: The absence of fathers during war, while obviously
+painful for individual families, does not constitute an assault on fatherhood as a social role and cultural norm.<sup>9</sup>
+
+##### PAGE 51
+In the twentieth century, however, our nation has faced not one fatherhood crisis, but two. The second is the one we face today: the rise of voli-tional fatherlessness. The first, very different, fatherhood crisis in this century occurred during and immediately after World War II. During that war, for the first time in American history, the government conscripted fathers into military service on a societywide scale. This mass conscription of fathers caused widespread debate and protest, including a vigorous discussion among experts and opinion leaders, much of it focusing on the role of fathers in society.
+
+The fatherhood debate of World War II constitutes a little-remembered but important historical moment. For during those years, even as millions of men put on uniforms and left their families, American society was in little doubt about what fathers do or about the consequences of father absence. Across lines of region, educational attainment, class, race, and gender, the consensus at the onset of World War II was unambiguous: To separate millions of fathers from their children, even temporarily, would present a clear and present danger to child and societal well-being.
+
+Such agreement can derive only from a society's embrace of the fatherhood idea: the "moral and legal rule" of a father for every child. Because the United States in the 1990s increasingly ignores this foundational idea, it is revealing to recall a time, not so long ago, when we did not. Because we currently disavow the fatherhood idea that our parents and grandparents espoused, much of what those people did about fatherhood in the 1940s must surely strike our contemporary sensibility as quaint or anomalous, perhaps even stunning.
+
+When the United States entered the war, for example, military leaders did not favor drafting fathers. During the early war years, a special deferment category was created for men whose children were conceived or born prior to the 1941 attack on Pearl Harbor.
+
+By 1943, however, it had became clear that draft quotas could not be filled solely from the ranks of single men and married men without chil-dren. The Selective Service was forced to turn to the "father class" of roughly 6 million men.l As one general bluntly complained in his testimony before the Senate Committee on Military Affairs: "If the men are single or if the men are fathers is really immaterial. It is the men, it is the bodies that we need."<sup>11</sup>
+
+The proposal to draft fathers produced widespread alarm and protest.
+Senator Burton Wheeler of Montana introduced legislation to postpone it, warning the Congress that widespread father absence would be severely detrimental to families. The government's modest dependency allowance for these fatherless homes, Wheeler insisted, was inadequate. Mothers would be unable to make ends meet. Economic vulnerability would spread, harming both domestic and military morale. Mothers would be
 
 <sup>90</sup>
