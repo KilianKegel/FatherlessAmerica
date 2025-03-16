@@ -11,7 +11,25 @@
 * [CHAPTER 2: Fatherlessness Society](#chapter-2-fatherlessness-society)
 	* [Youth Violence](#youth-violence)
 	* [Domestic Violence Against Women](#domestic-violence-against-women)
-	
+	* [Child Sexual Abuse](#child-sexual-abuse)
+	* [Child Poverty and Economic Insecurity](#child-poverty-and-economic-insecurity)
+	* [Adolescent Childbearing](#adolescent-childbearing)
+
+###### PAGEs
+|||||
+|---|---|---|---|---|---|---|---|---|---|
+[ 0](#page-0)|[10](#page-10)|[20](#page-20)|[30](#page-30)|[40](#page-40)|[50](#page-50)|[60](#page-60)|[70](#page-70)|[80](#page-80)|[90](#page-90)|
+[ 1](#page-1)|[11](#page-11)|[21](#page-21)|[31](#page-31)|[41](#page-41)|[51](#page-51)|[61](#page-61)|[71](#page-71)|[81](#page-81)|[91](#page-91)|
+[ 2](#page-2)|[12](#page-12)|[22](#page-22)|[32](#page-32)|[42](#page-42)|[52](#page-52)|[62](#page-62)|[72](#page-72)|[82](#page-82)|[92](#page-92)|
+[ 3](#page-3)|[13](#page-13)|[23](#page-23)|[33](#page-33)|[43](#page-43)|[53](#page-53)|[63](#page-63)|[73](#page-73)|[83](#page-83)|[93](#page-93)|
+[ 4](#page-4)|[14](#page-14)|[24](#page-24)|[34](#page-34)|[44](#page-44)|[54](#page-54)|[64](#page-64)|[74](#page-74)|[84](#page-84)|[94](#page-94)|
+[ 5](#page-5)|[15](#page-15)|[25](#page-25)|[35](#page-35)|[45](#page-45)|[55](#page-55)|[65](#page-65)|[75](#page-75)|[85](#page-85)|[95](#page-95)|
+[ 6](#page-6)|[16](#page-16)|[26](#page-26)|[36](#page-36)|[46](#page-46)|[56](#page-56)|[66](#page-66)|[76](#page-76)|[86](#page-86)|[96](#page-96)|
+[ 7](#page-7)|[17](#page-17)|[27](#page-27)|[37](#page-37)|[47](#page-47)|[57](#page-57)|[67](#page-67)|[77](#page-77)|[87](#page-87)|[97](#page-97)|
+[ 8](#page-8)|[18](#page-18)|[28](#page-28)|[38](#page-38)|[48](#page-48)|[58](#page-58)|[68](#page-68)|[78](#page-78)|[88](#page-88)|[98](#page-98)|
+[ 9](#page-9)|[19](#page-19)|[29](#page-29)|[39](#page-39)|[49](#page-49)|[59](#page-59)|[69](#page-69)|[79](#page-79)|[89](#page-89)|[99](#page-99)|
+
+
 ### Acknowledgments
 My most important author's debts are to my colleagues Barbara
 Dafoe Whitehead and David Popenoe, who started this project
@@ -1284,7 +1302,7 @@ obligation and the duty to provide for children.
 Put simply, we have too many boys with guns primarily because we have
 too few fathers. If we want fewer of the former, we must have more of the
 latter. There is little evidence to suggest that any other strategy will work.
-
+###### PAGE 32
 Social workers, psychologists, mentors, and life skills instructors can 
 frequently help children like Joseph Chaney, Jr., but they cannot even begin
 to do the work of a father. And despite our current policy of spending
@@ -1330,7 +1348,7 @@ Schechter puts it: “Although men no longer legally own women, many act as if
 they do. In her marriage vows today, the woman still promises to love, honor,
 and obey... . Battering is one tool that enforces husbands’ authority over
 wives or simply reminds women that this authority exists.<sup>25</sup>
-
+###### PAGE 33
 Similarly, Naomi Wolf, angered by the rise of a “rape culture” in the
 United States, confesses that “when I think of pledging my heart and body
 to a man — even the best and kindest man—within the existing institution
@@ -1378,7 +1396,7 @@ Because of the causal link between marriage and violence, and
 because husbands are the principal victimizers of women, “wife beating”
 properly emerges as a generic term for male violence against a female
 sexual partner.<sup>30</sup>
-
+###### PAGE 34
 But if marriage is the problem—if marriage serves to institutionalize and
 even valorize male violence—we might logically expect the decline of marriage 
 in our society to be accompanied by a decline in domestic violence.
@@ -1427,3 +1445,658 @@ aggression toward the support of his child and the mother of his child,
 married fatherhood dramatically restricts the tendency among men toward
 violent behavior.
 
+###### PAGE 35
+
+Do crime statistics in the United States support this theory? In 1994,
+the Centers for Disease Control and Prevention, an agency of the U.S.
+Department of Health and Human Services, released a study containing a
+startling piece of information: Each year, about 6 percent of all pregnant
+women are battered by their “husbands or partners."<sup>36</sup> In an interview
+with the *New York Times*, Dr. Julie Gazmararian, the study’s principal
+author, was dismayed to find so many women “at risk, especially during
+pregnancy, a time when women are bonding more with their mates."<sup>37</sup>
+
+Yet in the tables of the study itself, we learn a revealing and little-reported
+fact: For every married pregnant woman who reported being
+abused by her husband, almost four unmarried pregnant women reported
+being abused by their boyfriends. Moreover, marital status is the strongest
+predictor of abuse in this study — stronger than race, age, educational
+attainment, housing conditions, or access to prenatal health care.<sup>38</sup>
+
+In short, in exactly the same way that the language of “husbands or
+partners” (and of “mates”) fuzzes over the key distinction, the reported
+figure of 6 percent obscures at least as much as it reveals. The Centers for
+Disease Control might just as accurately, and much more diagnostically,
+have reported that, compared to married women, unmarried women are
+three to four times more likely to be physically abused while pregnant.
+
+A recent study of domestic violence in New Jersey confirms this phenomenon. 
+Even though co-resident wives greatly outnumber co-resident
+girlfriends — nationally, there are only about six unmarried co-resident couples 
+for every hundred married couples—reports of domestic violence
+against girlfriends in New Jersey actually outnumber reports of domestic
+violence against wives.<sup>39</sup>
+
+The National Crime Victimization Survey, conducted by the U.S.
+Department of Justice, provides the most comprehensive source of
+national data on violent crimes against women. This survey’s findings
+firm the thesis that violent behavior among men is strongly linked to marital 
+status. For example, from 1979 through 1987, about 57,000 women per
+year were violently assaulted by their husbands. But 200,000 women per
+year were assaulted by boyfriends and 216,000 by ex-husbands. Of all violent 
+crimes against women committed by intimates during this period,
+about 65 percent were committed by either boyfriends or ex-husbands,
+compared with 9 percent by husbands.<sup>40</sup> Clearly, male violence against
+female intimates is concentrated not within the marital institution but out
+side the perimeters of it — either from sort-of spouses (boyfriends) or from
+former husbands.
+
+###### PAGE 36
+More broadly, married women are four times less likely than unmarried
+or divorced women to become the victim of any violent crime. Marital status 
+is one of the strongest predictors for female crime victimization. From
+1973 through 1992, the female violent crime victimization rate—violent
+crimes against females per 1,000 females age twelve or older — was 43 for
+unmarried women and 45 for divorced and separated women. For married
+women, the rate was 11. In short, for women, being married means being
+safer from violent crime.<sup>41</sup>
+
+Yet simply comparing married to unmarried perpetrators, as revealing
+as that comparison is, may not take us to the heart of the matter. Recall the
+core idea: The institutional inhibitor of male violence is married fatherhood. 
+The goal for men, and for society, is paternal investment through an
+alliance with the mother. But what happens to men when this process fragments? 
+Specifically, what happens when there is fatherhood—or at least
+some semblance of fatherhood—but little or no alliance with the mother?
+
+During the summer of 1993, several colleagues and I conducted an
+unscientific experiment. We read two Boston newspapers each day, looking 
+for stories describing local incidents of domestic violence. We had our
+hands full. As it turned out, that summer Boston experienced a horrifying
+surge of domestic violence. In reviewing these grim stories, two types of
+violent men clearly stand out.
+
+The first is the boyfriend-father. He is the biological father of his girlfriend’s child, 
+but his relationship with the mother is sporadic, ambivalent,
+and unstable. On the one hand, he is proud of his child and cares about his
+child. As a father, he has the right to make claims and to be involved. On
+the other hand, his commitment to the mother is weak and variable. Moreover,
+because the mother understands this fact, she may well decide that
+she no longer wants him around.
+
+For these reasons, he may well treat her with resentment and even rage,
+in part because he dislikes being obligated to her, and in part because she
+alone largely controls something that is important to him. In addition, his
+anger may be stoked by humiliation as he comes to suspect—and to be
+told by the mother, perhaps as she shows him the door — that he is letting
+her and their child down and thus failing a test of manhood.
+
+This increasingly common situation is highly combustible — an unstable
+mixture of sexual proprietariness, concern for offspring, resentment, and
+relative powerlessness, all operating without the benefit of any institutional
+coherence or structure. It is a seedbed for male violence. As a result, the
+boyfriend-father frequently becomes a violent guy, using his fists or a
+weapon to grab for something — ultimately, perhaps, a sense of control and
+self-respect — that his situation renders almost inherently unattainable. Here
+are three examples of this phenomenon from that terrible Boston summer:
+
+###### PAGE 37
+
+*After allegedly putting a gun to his ex-girlfriend’s head and pulling
+the trigger, 22-year-old Hernando Cruz went to a friend’s house and
+watched TV news reports to make sure she was dead.... Cruz, of
+Revere, was charged yesterday with murdering Francisca Guthrie, 18,
+outside a crowded mall as she pushed their infant daughter in a
+stroller... . Police and prosecutors said Cruz, a car-rental agency worker,
+was angry that his girlfriend had left him.,.. Guthrie, who moved in
+with her family in Chelsea two days ago, refused to let Cruz see their
+2 1/2-month-old baby, Cassandra.*<sup>42</sup>
+
+*In March, Patricia Aquino was granted a year-long restraining order
+to keep her boyfriend away from her... . Yesterday morning, Aquino’s
+13-year-old daughter, hearing her 2-year-old brother moving about in
+her mother’s bedroom, pushed open the door and found Aquino
+sprawled at the foot of the bed... . Aquino was pronounced dead at the
+scene... . Police said they were seeking for questioning Robert (Skipper)
+Murphy, 34, the father of Aquino’s two youngest children.*<sup>44</sup>
+
+*Ann-Marie Yukevich did almost all the right things — took out
+restraining orders against her abusive boyfriend, and even got him
+locked up for six months last year... . [But yesterday] the mother of
+two — who was three months pregnant with boyfriend Michael Brawler’s
+child — died when he allegedly stormed her Watertown home despite a
+restraining order and suffocated her with a pillow.*<sup>44</sup>
+
+The second newly prevalent type of perpetrator is distinctly visible
+from the National Crime Victimization Survey. He is the ex-spouse: the
+former husband-father who goes crazy. He was once a married father. Then
+his world falls apart. He loses his children. He loses his home, his purpose,
+his direction. Frequently, he loses his grip. Frequently, he becomes a violent
+guy.
+
+Sometimes, of course, he was a bad husband and father — perhaps even
+a violent one — before the divorce. In such cases, marriage has clearly failed
+to inhibit male violence. Yet even after taking this disconfirming evidence
+into account, the larger trend seems clear: For many men, suddenly losing
+their identity as married fathers, especially when the loss is involuntary,
+shatters their world and triggers violence.
+
+Consider three cases involving former husband-fathers, all occurring in
+Boston within a period of less than two weeks:
+
+*The estranged husband of a Roxbury woman broke into her apartment early 
+yesterday and went on a bloody rampage, fatally stabbing his
+wife’s brother and slashing the throats of his wife and 14-year-old 
+daughter... . Neighbors of his wife said he had been distraught about their
+separation... . [The victim] had obtained a restraining order July 1
+against her husband and the pair separated about a month ago.*<sup>45</sup>
+
+*An Arlington man beat his estranged wife to death and buried her in
+an East Boston marsh because he was angry about having to pay her
+$200 a week in child support, a prosecutor alleged yesterday.*<sup>46</sup>
+
+###### PAGE 38
+*New Hampshire man, angered over the outcome of a bitter divorce
+case, allegedly shot and killed a Massachusetts man who had once been
+married to his wife.... Nathaniel Tuttle ... is charged with murder in
+the death of Joseph Siedentopp ... who had testified against Tuttle in
+the divorce case... . The victim was the third husband of Tuttle’s wife,
+Matalina, 46. Tuttle is her fourth husband.... The two met in 1978
+while Matalina was married to Siedentopp, court papers said. She
+worked as a bookkeeper for Tuttle’s Auto Parts and, in 1979, had a
+daughter by Tuttle. In 1989, she filed a “palimony” suit against Tuttle,
+but dropped it after Tuttle agreed to marriage Tuttle, who was
+barred from contact with her as a result of a restraining order, had also
+been ordered to undergo counseling ... the prosecutor said the divorce
+decree apparently sparked the shooting.*<sup>47</sup>
+
+That summer, the Boston newspapers ran several hand-wringing stories
+detailing the failure of current public policy to halt the surge of domestic
+violence in the city. “The major weapon we have against domestic violence,
+the civil restraining order, is not working,” a Quincy District Court probation
+officer told the *Boston Herald*. “We need to re-look at this in a major way.<sup>48</sup>
+The *Herald* also observed: “A year ago. Gov. William F. Weld
+declared ‘an epidemic of domestic violence’ in the state. Bills were passed
+and millions of dollars were spent to quell the murders. But today ...
+advocates wonder just how effective the laws, funds and press conferences
+have been.<sup>49</sup>
+
+What preoccupied Boston in the summer of 1993 preoccupied everyone
+in the summer of 1994, when much of the nation became transfixed by the
+grisly crime of domestic violence allegedly committed by O. J. Simpson,
+the former football star. If proven guilty, Simpson is yet another example
+of this growing phenomenon, the killer ex-husband. Moreover, like many
+males who turn to violence, he grew up without a father.<sup>50</sup>
+What is the underlying reality of these dreadful stories? That some people, 
+for whatever reason, simply go bad? That males are prone to violence?
+That we need stricter laws and tougher enforcement? That we need to
+teach men, starting when they are boys, to control their aggression? That
+we are living in an increasingly violent world?
+
+Yes, all of these things are true. But the deeper chord of this narrative is
+the growing fragmentation of fatherhood in our society. For the plot line
+running through all of these crime stories is the growing incoherence of
+paternity and the steady weakening of marriage as an institution that brings
+order and meaning to men’s lives. As marriage weakens, more and more men
+become isolated and estranged from their children and from the mothers of
+their children. One result, in turn, is the spread of male violence.
+Across societies, married fatherhood is the single most reliable, and
+relied upon, prescription for socializing males. Thus, a society’s procreative
+norms for men, though seldom recognized as a determinant of violence, do
+more to determine the level of domestic violence than either legislative
+action or police procedures.
+
+###### PAGE 39
+
+For if the cultural antidote for male violence is monogamous marriage
+and responsible fatherhood, the breeding grounds for it are casual sex, 
+family fragmentation, and nonmarital childbearing. As we deinstitutionalize
+marriage and fracture fatherhood in our society, we must not be surprised by
+the rapid spread of male violence, especially violence against women.
+
+### Child Sexual Abuse
+
+With each passing year, the horrifying crime of child sexual abuse is
+reported more often and, apparently, is happening more often in our society.<sup>51</sup> 
+It is also, more than any other category of violent male behavior,
+rooted in what Douglas J. Besharov, a leading scholar in the field, calls “the
+growing presence of unrelated males in households with children."<sup>52</sup>  In
+short, the spreading risk of childhood sexual abuse is directly linked to the
+decline of married fatherhood.
+
+This is the trend on the ground. Meanwhile, in the movies and on television, 
+as well as in much of the print media, the portrayal of the sexual
+abuse of children follows a strict formula. It is never the butler. Always, the
+father did it.
+
+From television movies such as *Something About Amelia* and *Not in My Family*, 
+to magazine stories such as *Newsweek*’s “The Sins of the Fathers,”
+the essential plot line rarely varies.”<sup>53</sup> 
+He gets married. He becomes a father. He seems normal. He molests his child. 
+A 1993 storybook for children. 
+The Storm’s Crossing perfectly captures the genre; “On the surface Maggie
+is a happy-go-lucky, everyday-kind of kid—from a model family living a
+model life in a good neighborhood. But she is also the unhappy-be-unlucky
+victim of her father’s sexual interests.<sup>54</sup> 
+
+As in the case of domestic violence against women, the crime of child
+sexual abuse is frequently described by scholars and children’s advocates
+as a sickening but predictable consequence of having fathers in the home.
+From this perspective, child sexual abuse can be viewed as fatherhood run
+amok. As Judith Lewis Herman puts it, the sexual molestation of daughters 
+is “an exaggeration of patriarchal family norms, but not a departure
+from them.<sup>55</sup>  The presence of fathers, then—especially, it seems, everyday
+kind of fathers from model families—endangers children by exposing
+them to the risk of sexual abuse.
+
+Yes, some—too many—married fathers molest their children. But the
+weight of evidence is clear. What magnifies the risk of sexual abuse for
+
+###### PAGE 40
+
+children is not the presence of a married father but his absence. More
+specifically, the escalating risk of childhood sexual abuse in our society
+stems primarily from the growing absence of married fathers and the
+growing presence of stepfathers, boyfriends, and other unrelated or transient males.
+
+Consider stepfathers. A stepfather enters a family as the mother’s sexual
+partner, but not as the daughter’s father and longtime protector. As many
+analysts have pointed out, the incest taboo is significantly weaker in step
+father-stepdaughter relationships. Nor is this relationship characterized by
+what some scholars term “kin altruism”—the profound tendency to sacrifice 
+most for those with whom we share the closest biological ties.<sup>56</sup> For
+fathers (and for mothers as well), kin altruism exerts its most powerful
+influence in the case of biological offspring.
+
+Moreover, for the married father, the daily habits of fathering, originating 
+from the child’s birth — watching her being bom, teaching her to brush
+her teeth—serve as a strong reinforcement of paternal protectiveness and a
+strong barrier against the expression of sexual desire for a child. As Judith
+Wallerstein observes: “the father’s role is to protect his daughter, an
+impulse that is normally more powerful than any excitement he experiences.<sup>57</sup>
+
+In the case of stepfathers, none of these inhibitors of sexual expression
+is present. Of course, most stepfathers do not molest their stepchildren.
+But, as numerous studies confirm, stepfathers are far more likely than
+fathers to do so.<sup>58</sup>
+
+Consider boyfriends. Until quite recently, mothers with live-in
+boyfriends were considered unfit mothers, largely because boyfriends were
+considered a threat to the sexual innocence of children. Judges could and
+did deny such women custody of their children. But today, with the general 
+acceptance of cohabitation, not only has such antiboyfriend fearfulness 
+largely vanished but we seem to have forgotten why we ever had it. In
+general, mothers with dependent children are free to share their house
+holds with boyfriends.
+
+The language we use is revealing. These are not men but “boys.” They
+are not husbands or fathers but “friends.” When we think of adult family
+roles, there are no activities called the “boyfriend role.” The language is
+rooted in fact. Boyfriends tend to be younger and far more transient than
+either fathers or stepfathers. Regardless of their age, they possess a kind of
+adolescent freedom. They are unrestricted, not bound by either the father
+role or the husband role. Most important, they are not bound by probably
+the most powerful taboo in human society: the incest taboo.<sup>59</sup>
+Consequently, the growing prevalence of boyfriends and “play hus
+bands” in households with children poses a direct threat to children’s
+
+###### PAGE 41
+
+physical and sexual safety.<sup>60</sup> One study conducted by the research firm
+Westat finds that, of all cases of child abuse in which the perpetrator is
+known, fully one-quarter are cohabiting “parent substitutes,” usually
+boyfriends — a rate dramatically higher than the rates found among fathers,
+day-care providers, babysitters, or other caregivers.<sup>61</sup>
+
+According to another recent study from the University of Iowa, of all
+reported cases of nonparental child abuse, about half are committed by
+boyfriends, even though boyfriends provide only about 2 percent of all
+nonparental child care. About 84 percent of all cases of nonparental child
+abuse occur in single-parent homes. Among the cases occurring in singleparent
+homes, 64 percent of the perpetrators are boyfriends. The study’s
+conclusion: “a young child left alone with mother’s boyfriend experiences
+substantially elevated risk of abuse.<sup>62</sup>
+
+Regarding sexual abuse, the risk posed by boyfriends is especially
+high. In the Westat study, cases of sexual abuse by “parent substitutes”
+actually outnumber cases by natural parents.<sup>63</sup> Michael Gordon and
+Susan J. Creighton summarize the research findings: “A number of
+studies have shown that girls living with non-natal fathers [boyfriends
+and stepfathers] are at higher risk for sexual abuse than girls living with
+natal fathers.”<sup>64</sup>
+
+To make a dangerous situation even worse, many single mothers, especially 
+women who never married and already face obstacles such as poverty
+and bad neighborhoods, simply do not prevent their boyfriends from
+showing sexual interest in their daughters. Because she wants a boyfriend
+who will fuss over her and her children, a single mother “may encourage
+the current man in her life to ‘play daddy,’ hoping he will like the role,”
+reports Judith S. Musick in *Young, Poor and Pregnant*. But these mothers
+often fail to realize that “allowing someone to play daddy under these conditions 
+in effect gives him carte blanche—the child is his to do with as he
+sees fit. All too many males will see fit to threaten, force, coerce or seduce
+the woman’s daughters into sexual activity.<sup>65</sup>
+
+Finally, consider the rising risk of sexual abuse from male strangers and
+acquaintances. In the Westat study, approximately half of the confirmed
+acts of child sexual abuse were committed by “others”—people outside
+the household.<sup>66</sup> More significantly, there is a clear relationship between
+the absence of a married father on the premises and the opportunity for
+“others” to coerce and molest children. Accordingly, many girls in father-absent
+homes are poorly protected from sexually opportunistic males in
+the surrounding community. Elijah Anderson observes:
+
+The local boys may be attracted to the home as a challenge... . In such a
+setting no man, the figure the boys are prepared to respect, is there to
+
+###### PAGE 42
+
+keep them in line. Girls in this vulnerable situation may become pregnant 
+earlier than those living in homes more closely resembling nuclear
+families.<sup>67</sup>
+
+According to a recent study from the Alan Guttmacher Institute, among
+girls who experience sexual intercourse by the age of fourteen, nearly threequarters
+report that they have at times been physically coerced into it.<sup>68</sup>
+
+According to some observers, men who sexually abuse children seem to
+develop special antennae that pick up the signals of vulnerability.<sup>69</sup> Certainly, 
+in several celebrated cases, single mothers have let such sexually
+opportunistic men befriend their fatherless children. In Sonora, California,
+for example, Daniel Mark Driver “gained the trust of single mothers” by
+“moving in religious circles and offering himself as a substitute father.” He
+then sexually molested the children he was “fathering."<sup>70</sup>
+
+Child sexual abuse is a terrible crime, regardless of the identity or family
+status of the perpetrator. Too many married fathers commit this crime.
+These are facts. But it is also a fact, despite our widespread unwillingness
+to face it, that a child is sexually safer with her father than she is with any
+other man, from a stepfather to her mother’s boyfriend to guys in the
+neighborhood. She is also safer with a father than without one. A child in a
+fatherless home faces a significantly higher risk of sexual abuse.
+
+### Child Poverty and Economic Insecurity
+
+If the most immediately frightening societal consequence of fatherlessness
+is the rise of male violence, the most easily measurable is the rise of child
+poverty. Across history and cultures, the foundational tasks of fatherhood
+have been twofold: protection and provision. The first is about violence.
+The second is about money.<sup>71</sup> For the child, fatherlessness means more of
+the former and less of the latter.
+
+A blizzard of statistics and studies confirms the relationship between
+fatherlessness and child poverty, but here, at least arguably, are the three
+most revealing comparisons. In married-couple homes in the United States
+in 1992, about 13 percent of all children under the age of six lived in
+poverty; in single-mother families, about 66 percent of young children lived
+in poverty — a ratio of 5 to 1.<sup>72</sup> In married-couple homes with preschool
+children, median family income in 1992 was approximately $41,000; in
+single-mother homes with young children, median income was about
+$9,000 — a ratio of more than 4 to 1.<sup>73</sup> Of all married-couple families in the
+nation in 1992, about 6 percent lived in poverty; of all female-headed families, 
+about 35 percent lived in poverty — a ratio of almost 6 to 1.<sup>74</sup>
+
+###### PAGE 43
+
+One more comparison, regarding the economic well-being of African-American children. 
+Of all black married couples with children under age
+eighteen in 1992, about 15 percent lived in poverty; of all black mother
+headed homes with children, about 57 percent lived in poverty—a ratio of
+almost 4 to 1.<sup>75</sup>
+
+In *Single Mothers and Their Children*, Irwin Garfinkel and Sara S.
+McLanahan succinctly summarize the evidence: “Families headed by single 
+women with children are the poorest of all major demographic groups
+regardless of how poverty is measured.<sup>76</sup> In *Poor Support*, David T. Ellwood
+similarly concludes that “the vast majority of children who are raised
+entirely in a two-parent home will never be poor during childhood. By
+contrast, the vast majority of children who spend time in a single-parent
+home will experience poverty.”<sup>77</sup>
+
+Most scholars now agree that this link between family structure and
+child poverty is not simply a statistical correlation. It is a causal relation
+ship. Fatherlessness causes child poverty. Indeed, according to numerous
+scholars, fatherlessness has become the single most powerful determinant
+of child poverty—more important than race, region, or the educational
+attainment of the mother. As William Julius Wilson and Kathryn M. Neckerman
+put it, “sex and marital status of the head are the most important
+determinants of poverty status for families.<sup>78</sup>
+
+Similarly, Leif Jensen, David J. Eggebeen, and Daniel T. Lichter, analyzing 
+a national child poverty rate that jumped from 14 percent in 1969 to
+20.6 percent in 1990, despite much more social spending on children,
+attribute most of this surge to “the demographic shift of children living in
+married-couple families to ‘high-risk’ single-parent families.” Echoing
+other scholars, they suggest that “changing family structure is the greatest
+long term threat to U.S. children.<sup>79</sup>
+
+In his careful review of the evidence, William A. Galston, currently the
+deputy assistant to the president for domestic public policy, concludes that
+current research findings “suggest that the best anti-poverty program for
+children is a stable, intact family.<sup>80</sup> He might just as easily have said: a
+married father on the premises.
+
+In 1986, our society crossed an important threshold. That year, for the
+first time in our nation’s history, a majority of aU poor families were father-absent.<sup>81</sup>
+Historically, for most poor children, poverty stemmed primarily
+from fathers being unemployed or receiving low wages. For most poor children 
+today, poverty stems primarily from not having a father in the home.
+In strict economic terms, this trend can be understood as paternal disinvestment: 
+the growing refusal of fathers to spend their resources on their
+offspring. This trend helps to explain an apparent paradox. Public spending 
+on children in the United States has never been higher. At the same
+
+###### PAGE 44
+
+time, child poverty is spreading and child well-being is declining.<sup>82</sup> 
+The explanation is that our rising public investment in children has been far
+outweighed by our private disinvestment, primarily paternal disinvestment.
+
+Certainly, the clearest economic consequence of paternal disinvestment
+is rising child poverty, a condition that, in 1992, afflicted 22 percent of all
+children under age eighteen and 25 percent of all children under age six.<sup>83</sup> 
+But paternal disinvestment also produces an economic ripple effect that
+extends well beyond the official definition of poverty. For even when
+fatherlessness does not consign children to poverty, it commonly consigns
+them to a childhood — and frequently an early adulthood as well — marked
+by persistent economic insecurity.
+
+For example, divorce typically means lower living standards for women
+and children. One study estimates that, in the year following divorce, aver
+age income for women drops by approximately 30 percent.<sup>84</sup>  
+Even the best postdivorce economic arrangements, in which fathers regularly pay child
+support, almost always mean less money and more insecurity for children — including 
+fewer traditional childhood activities such as athletics, summer camp, vacations, 
+school trips, and swimming lessons. A 1991 
+study concludes: “other than paying child support and buying gifts, the
+majority of [divorced] fathers have never provided assistance to their children.”<sup>85</sup> 
+
+Moreover, millions of children in our society—from those who have
+never seen their fathers to those whose absent fathers visit regularly and
+pay child support—fail to receive any financial support from their fathers
+precisely when they need it the most: when they are crossing the threshold
+of adulthood. As they enter their late teens and early twenties, these young
+people will want to buy a car. They will want to go to college, or make a
+down payment on a house, or buy furniture for an apartment, or find a co-signer 
+for a bank loan. But, unlike previous generations, these young people 
+will get no help from their fathers. Even among divorced fathers who
+pay child support, the end of the support order, usually when the child
+reaches age eighteen, usually signals the end of support. In her study of
+paternal support following divorce, Wallerstein was dismayed to find that
+many fathers
+
+who had maintained contact with their children over the decade, who
+had supported them with regularity, and who were well able to continue
+supporting them financially, failed to do so at the time when their youngsters’ 
+economic and educational preparation for adulthood was at stake.<sup>86</sup>
+
+For many young people, this paternal disinvestment in young adulthood
+contributes to downward social mobility. Although many children manage
+to do well without a father’s help, those who grow up without fathers are
+
+###### PAGE 45
+
+far more likely to move down, not up, the socioeconomic ladder. Sons are
+especially affected, since they are the traditional beneficiaries of a father’s
+occupational guidance and role modeling.<sup>87</sup>
+
+In a larger sense, the cessation of the intergenerational transfer of paternal 
+wealth — from father to child and from paternal grandparents to grand
+child — is likely to emerge by the early years of the next century not only as
+a growing determinant of individual economic well - being but also as a new
+source of social inequality. For as fatherlessness spreads, the economic difference 
+between America’s haves and have-nots will increasingly revolve
+around a basic question: Which of us had fathers?
+
+### Adolescent Childbearing
+
+After protection and provision, the central task of fatherhood is cultural
+transmission. In many respects, the single most consequential development
+in the story of human fatherhood, powerfully portrayed in classic texts
+such as the Bible’s Book of Genesis, is the movement of males toward
+understanding their paternity not simply as biological insemination, nor
+even primarily as providing resources and warding off danger, but also—
+and perhaps most important—as “manhandling” their offspring: making
+sure not only that the child survives, but also that the child grows up to be
+a certain kind of person.
+
+**Here we see the essential difference between biological paternity and
+fatherhood. The former helps to produce a child. The latter helps to produce
+an adult. In the broadest sense, cultural transmission can be understood 
+as fathers and mothers, in overlapping but distinctive ways, teaching
+their children a way of life. The result of effective cultural transmission is
+the development of competence and character in children.**
+
+**Fatherlessness — the absence of paternal transmission — contributes to a
+decline of character and competence in children. Today, a growing characterological
+deficit among children is widely evident in our society, affecting
+countless aspects of children’s behavior and mental health, from school
+misconduct to eating disorders to the decline of politeness and manners.<sup>88</sup>
+For this reason, characterological disinvestment by fathers is harder to
+quantify than economic disinvestment, but it is far more important. For
+children, doing without a father’s money is the easy part. Money influences
+what you have and what you can do. Fathers shape who you are.**
+
+For boys, the most socially acute manifestation of paternal disinvestment 
+is juvenile violence. For girls, it is juvenile and out-of-wedlock child-bearing. 
+One primary result of growing fatherlessness is more boys with guns. 
+Another is more girls with babies.
+
+
+###### PAGE 46
+
+In 1991, the rate of adolescent childbearing, measured as births to teen
+mothers per 1,000 girls, reached 62.1, the highest level since 1971 (prior to
+the legalization of abortion). In more than two-thirds of all cases of
+teenage childbearing today, the mother is unmarried.<sup>89</sup> (In 1960, only 15
+percent of teen mothers were unmarried.)<sup>90</sup> 
+Each year, unmarried teen mothers account for a larger share of the nation’s total number of childbirths.
+In 1985, for example, they accounted for 7.5 percent of all births.
+In 1991, they accounted for 9 percent.<sup>91</sup> Adolescent childbearing is 
+inextricably linked to the decline of fatherhood — not only because more and
+more adolescent boys are willing to impregnate girls without the slightest
+intention of becoming an effective father but also because more and more
+adolescent girls are growing up without a father in the home.
+
+**A father plays a distinctive role in shaping a daughter’s sexual style and
+her understanding of the male-female bond.** A father’s love and involvement 
+builds a daughter’s confidence in her own femininity and contributes
+to her sense that she is worth loving. This sense of love-worthiness gives
+young women a greater sense of autonomy and independence in later
+relationships with men. Consequently, women who have had good relationships 
+with their fathers are less likely to engage in an anxious quest
+for male approval or to seek male affection through promiscuous sexual
+behavior.
+
+Many studies confirm that girls who grow up without fathers are at
+much greater risk for early sexual activity, adolescent childbearing,
+divorce, and lack of sexual confidence and orgasmic satisfaction.<sup>92</sup> These
+problems do not stem primarily from economic status. Scholars have studied 
+this issue carefully, documenting the effects on girls of fatherless homes
+while controlling for income — that is, eliminating income as a dependent
+variable in the studies. They have concluded that father absence, not
+money absence, is the core issue.
+
+For example, Garfinkel and McLanahan, in their careful summary of
+the research on the many “intergenerational consequences” of fatherless
+homes, place special emphasis on the “family formation behavior” of girls
+who grow up without fathers. Among white families, one study finds that
+“daughters of single parents are 53 percent more likely to marry as
+teenagers. 111 percent more likely to have children as teenagers, 164 per
+cent more likely to have a premarital birth, and 92 percent more likely to
+dissolve their own marriages.<sup>93</sup>
+
+These authors favor new public policies that would provide greater economic 
+support for single-parent homes. But they also insist that we confront the 
+research findings that “increasing the incomes of single mothers
+would alleviate at least some of the educational disadvantages now associated 
+with being a member of a female-headed family, but would not have
+
+###### PAGE 47
+
+much of an impact on out-of-wedlock births or on the perpetuation of
+mother-only families.<sup>94</sup>
+
+For girls, the effects of fatherlessness often emerge most visibly during
+adolescence, frequently in the form of precocious sexuality. For example,
+daughters who seemed to have “gotten over” their parents’ divorce may
+suddenly exhibit problems in forming intimate relationships of their own.
+Of the young women in the California Children of Divorce Study, Judith
+Wallerstein writes:
+
+*Many of the young women who had done well during their early adolescent 
+years experienced a “sleeper” effect as they moved into late adolescence 
+and became very frightened of failure. Almost all confronted
+issues of love, commitment and marriage with anxiety, sometimes with
+very great concern about betrayal, abandonment, and not being loved.
+In response to this, many of the young women, and some of the young
+men, appeared counterphobically to have thrown themselves into short
+lived sexual relationships.*<sup>95</sup>
+
+E.Mavis Hetherington’s study of teenage daughters in father-absent
+families identifies differences between girls who lose their fathers through
+divorce and girls who lose their fathers through death. Compared to
+daughters who live with both parents, girls from both widowed and
+divorced families are less able to interact successfully with men. But while
+daughters of widows tend toward shyness and inhibition with men,
+daughters of divorce tend to be overly responsive.<sup>96</sup>
+
+Deprived of a stable relationship with a nonexploitative adult male who
+loves them, these girls can remain developmentally “stuck,” struggling
+with issues of security and trust that weU-fathered girls have already 
+successfully resolved. Judith Musick observes; “The self’s voice in these young
+women may remain fixed on one basic set of questions... . What do I
+need to do, and who do I need to be, to find a man who won’t abandon
+me, as the men in my life and my mother’s life have done?<sup>97</sup>
+
+These unresolved issues pose serious obstacles to meeting what Erik
+Erikson describes as the central challenge of adolescence: establishing a
+sense of industry.<sup>98</sup>
+As Musick puts it:
+
+*Girls for whom basic acceptance and love are the primary motivating
+forces have little interest or emotional energy to invest in school or workrelated
+activities unless they are exceptionally bright and talented. Even
+then, the pull of unmet affiliative or dependency needs may be more
+powerful than anything the worlds of school or work have to offer.*<sup>99</sup>
+
+
+###### PAGE 48
+Precisely because these issues are so intimate and important, this form
+of paternal disinvestment in daughters cannot really be remedied. When a
+girl cannot trust and love the first man in her life, her father, what she is
+missing cannot be replaced by money, friends, teachers, social workers, or
+well-designed public policies aimed at helping her. She simply loses. Moreover, 
+as more and more girls grow up without fathers, society loses.
+
+From a societal perspective, this particular consequence of fatherlessness 
+is very much like most others. It is not remediable. Paternal disinvestment 
+cannot be offset by either maternal investment or public investment.<br>
+**As a society, we will not solve our crisis of fatherlessness with prison cells,
+mentoring programs, antiviolence curricula, boyfriends, antistalking laws,
+children’s advocates, income transfers, self-esteem initiatives, or even
+mothers. We will solve it only with fathers.**
+
+## CHAPTER 3: The Lost Idea
+
+<sup>90</sup>
